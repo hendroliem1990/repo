@@ -1,59 +1,94 @@
-import yfinance as yf
 import pandas as pd
-from database import get_engine
-from ticker_loader import get_all_idx_tickers
-from ta.momentum import RSIIndicator
-from ta.trend import MACD
+from data_sources import DataManager
 from config import START_DATE
 import time
+import sys
 
-engine = get_engine()
+def run_pipeline(max_tickers=None, data_types=None):
+    """
+    Enhanced pipeline using comprehensive data sources
 
-def add_indicators(df):
-    df['RSI'] = RSIIndicator(df['Close']).rsi()
-    macd = MACD(df['Close'])
-    df['MACD'] = macd.macd()
-    df['MACD_signal'] = macd.macd_signal()
-    return df
-
-def run_pipeline():
+    Args:
+        max_tickers (int): Maximum number of tickers to process (for testing)
+        data_types (list): Types of data to collect ['price', 'fundamental', 'corporate_actions']
+    """
     try:
-        tickers = get_all_idx_tickers()
+        print("🚀 AI TRADING SYSTEM - COMPREHENSIVE DATA PIPELINE")
+        print("=" * 80)
+
+        # Initialize data manager
+        dm = DataManager()
+
+        # Configure data types to collect
+        if data_types is None:
+            data_types = ['price', 'fundamental', 'corporate_actions']
+
+        print(f"📊 Data sources to use:")
+        print("   • Yahoo Finance → Price data with technical indicators")
+        print("   • IDX → Ticker lists and corporate actions")
+        print("   • Stockbit → Fundamental data")
+        print(f"   • Data types: {', '.join(data_types)}")
+
+        # Optional: Add premium data sources if API keys are available
+        # Uncomment and add your API keys:
+        # dm.add_premium_source('polygon', 'your_polygon_api_key')
+        # dm.add_premium_source('tiingo', 'your_tiingo_api_key')
+
+        # Collect comprehensive data
+        results = dm.collect_comprehensive_data(
+            tickers=None,  # None = all IDX tickers
+            data_types=data_types,
+            max_tickers=max_tickers
+        )
+
+        print("\n" + "=" * 80)
+        print("🎯 PIPELINE EXECUTION SUMMARY")
+        print("=" * 80)
+        print(f"✅ Data sources used: {', '.join(results['metadata']['sources_used'])}")
+        print(f"✅ Tickers processed: {results['metadata']['total_tickers']}")
+        print(f"✅ Price data tables: {len(results['price_data'])}")
+        print(f"✅ Fundamental data tables: {len(results['fundamental_data'])}")
+        print(f"✅ Corporate actions: {len(results['corporate_actions'])}")
+
+        # Calculate some statistics
+        if results['price_data']:
+            total_price_rows = sum(len(df) for df in results['price_data'].values() if df is not None)
+            print(f"✅ Total price data points: {total_price_rows:,}")
+
+        print(f"⏱️  Execution time: Complete")
+        print("=" * 80)
+
+        return results
+
     except Exception as e:
-        print(f"Error loading tickers: {e}")
-        print("Using fallback ticker list...")
-        # Fallback tickers jika download gagal
-        tickers = ['BBCA.JK', 'BBRI.JK', 'BMRI.JK', 'ASII.JK']
+        print(f"❌ Pipeline error: {e}")
+        import traceback
+        traceback.print_exc()
+        return None
 
-    for ticker in tickers:
-        try:
-            print(f"Downloading {ticker}...")
-            df = yf.download(ticker, start=START_DATE, progress=False)
+def run_quick_test():
+    """Run a quick test with limited tickers"""
+    print("🧪 QUICK TEST MODE - Limited tickers for testing")
+    return run_pipeline(max_tickers=5, data_types=['price'])
 
-            if df.empty:
-                print(f"No data for {ticker}")
-                continue
-
-            # Handle multi-index columns from yfinance
-            if isinstance(df.columns, pd.MultiIndex):
-                # Flatten multi-index columns
-                df.columns = df.columns.get_level_values(0)
-
-            # Ensure we have required columns
-            required_cols = ['Open', 'High', 'Low', 'Close', 'Volume']
-            if not all(col in df.columns for col in required_cols):
-                print(f"Missing required columns for {ticker}")
-                continue
-
-            df = add_indicators(df)
-            table_name = ticker.replace(".JK","")
-            df.to_sql(table_name, engine, if_exists='replace', index=True)
-
-            print(f"✓ Saved: {ticker} ({len(df)} rows)")
-            time.sleep(0.5)
-
-        except Exception as e:
-            print(f"✗ Error {ticker}: {str(e)[:100]}")
+def run_full_fundamentals():
+    """Run full pipeline with fundamentals"""
+    return run_pipeline(data_types=['price', 'fundamental', 'corporate_actions'])
 
 if __name__ == "__main__":
-    run_pipeline()
+    # Check command line arguments
+    if len(sys.argv) > 1:
+        if sys.argv[1] == "test":
+            run_quick_test()
+        elif sys.argv[1] == "full":
+            run_full_fundamentals()
+        elif sys.argv[1] == "price-only":
+            run_pipeline(data_types=['price'])
+        else:
+            print("Usage: python pipeline.py [test|full|price-only]")
+            print("  test: Quick test with 5 tickers")
+            print("  full: Full pipeline with all data types")
+            print("  price-only: Price data only")
+    else:
+        # Default: run full pipeline
+        run_full_fundamentals()

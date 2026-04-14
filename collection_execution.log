@@ -1,0 +1,2402 @@
+🚀 AI TRADING SYSTEM - COMPREHENSIVE 957 TICKER DATA COLLECTION
+====================================================================================================
+⏰ Start time: 2026-04-14 04:54:52
+✅ Loaded 957 verified IDX tickers
+📊 Total tickers to process: 957
+====================================================================================================
+
+⚙️  Konfigurasi:
+   • Batch size: 20
+   • Batch delay: 1.0s
+   • Ticker delay: 0.1s
+   • Data types: price, fundamental, corporate_actions
+   • Estimated time: ~2 minutes
+
+💰 COLLECTING PRICE DATA (Yahoo Finance)
+====================================================================================================
+🚀 Starting Yahoo Finance download (batch size: 20)
+============================================================
+📦 Batch 1/48 (20 tickers)
+  📥 AADI.JK (Yahoo)... ✅ 316 rows
+  📥 AALI.JK (Yahoo)... ✅ 6214 rows
+  📥 ABBA.JK (Yahoo)... ✅ 5054 rows
+  📥 ABDA.JK (Yahoo)... ✅ 6077 rows
+  📥 ABMM.JK (Yahoo)... ✅ 3527 rows
+  📥 ACES.JK (Yahoo)... ✅ 4519 rows
+  📥 ACRO.JK (Yahoo)... ✅ 530 rows
+  📥 ACST.JK (Yahoo)... ✅ 3145 rows
+  📥 ADCP.JK (Yahoo)... ✅ 986 rows
+  📥 ADES.JK (Yahoo)... ✅ 6194 rows
+  📥 ADHI.JK (Yahoo)... ✅ 5444 rows
+  📥 ADMF.JK (Yahoo)... ✅ 5435 rows
+  📥 ADMG.JK (Yahoo)... ✅ 5892 rows
+  📥 ADMR.JK (Yahoo)... ✅ 1022 rows
+  📥 ADRO.JK (Yahoo)... ✅ 4354 rows
+  📥 AEGS.JK (Yahoo)... ✅ 614 rows
+  📥 AGAR.JK (Yahoo)... ✅ 1530 rows
+  📥 AGII.JK (Yahoo)... ✅ 2348 rows
+  📥 AGRO.JK (Yahoo)... ✅ 5378 rows
+  📥 AGRS.JK (Yahoo)... ✅ 2772 rows
+📊 Batch 1 complete: 20 success, 0 failed
+----------------------------------------
+📦 Batch 2/48 (20 tickers)
+  📥 AHAP.JK (Yahoo)... ✅ 5577 rows
+  📥 AIMS.JK (Yahoo)... ✅ 6138 rows
+  📥 AISA.JK (Yahoo)... ✅ 5796 rows
+  📥 AKKU.JK (Yahoo)... ✅ 5281 rows
+  📥 AKPI.JK (Yahoo)... ✅ 5932 rows
+  📥 AKRA.JK (Yahoo)... ✅ 5054 rows
+  📥 AKSI.JK (Yahoo)... ✅ 4486 rows
+  📥 ALDO.JK (Yahoo)... ✅ 3625 rows
+  📥 ALII.JK (Yahoo)... ✅ 511 rows
+  📥 ALKA.JK (Yahoo)... ✅ 6025 rows
+  📥 ALMI.JK (Yahoo)... ✅ 5932 rows
+  📥 ALTO.JK (Yahoo)... ✅ 3376 rows
+  📥 AMAG.JK (Yahoo)... ✅ 4995 rows
+  📥 AMAN.JK (Yahoo)... ✅ 1460 rows
+  📥 AMAR.JK (Yahoo)... ✅ 1506 rows
+  📥 AMFG.JK (Yahoo)... ✅ 5922 rows
+  📥 AMIN.JK (Yahoo)... ✅ 2534 rows
+  📥 AMMN.JK (Yahoo)... ✅ 658 rows
+  📥 AMMS.JK (Yahoo)... ✅ 882 rows
+  📥 AMOR.JK (Yahoo)... ✅ 1279 rows
+📊 Batch 2 complete: 40 success, 0 failed
+----------------------------------------
+📦 Batch 3/48 (20 tickers)
+  📥 AMRT.JK (Yahoo)... ✅ 4237 rows
+  📥 ANDI.JK (Yahoo)... ✅ 1865 rows
+  📥 ANJT.JK (Yahoo)... ✅ 3167 rows
+  📥 ANTM.JK (Yahoo)... ✅ 5054 rows
+  📥 APEX.JK (Yahoo)... ✅ 4486 rows
+  📥 APIC.JK (Yahoo)... ✅ 5468 rows
+  📥 APII.JK (Yahoo)... ✅ 3054 rows
+  📥 APLI.JK (Yahoo)... ✅ 6378 rows
+  📥 APLN.JK (Yahoo)... ✅ 3789 rows
+  📥 ARCI.JK (Yahoo)... ✅ 1152 rows
+  📥 AREA.JK (Yahoo)... ✅ 479 rows
+  📥 ARGO.JK (Yahoo)... ✅ 5613 rows
+  📥 ARII.JK (Yahoo)... ✅ 3546 rows
+  📥 ARKA.JK (Yahoo)... ✅ 1633 rows
+  📥 ARKO.JK (Yahoo)... ✅ 901 rows
+  📥 ARMY.JK (Yahoo)... ✅ 2165 rows
+  📥 ARNA.JK (Yahoo)... ✅ 5053 rows
+  📥 ARTA.JK (Yahoo)... ✅ 5800 rows
+  📥 ARTI.JK (Yahoo)... ✅ 5671 rows
+  📥 ARTO.JK (Yahoo)... ✅ 2516 rows
+📊 Batch 3 complete: 60 success, 0 failed
+----------------------------------------
+📦 Batch 4/48 (20 tickers)
+  📥 ASBI.JK (Yahoo)... ✅ 6346 rows
+  📥 ASDM.JK (Yahoo)... ✅ 5914 rows
+  📥 ASGR.JK (Yahoo)... ✅ 5053 rows
+  📥 ASHA.JK (Yahoo)... ✅ 930 rows
+  📥 ASII.JK (Yahoo)... ✅ 6335 rows
+  📥 ASJT.JK (Yahoo)... ✅ 5502 rows
+  📥 ASLC.JK (Yahoo)... ✅ 1006 rows
+  📥 ASLI.JK (Yahoo)... ✅ 534 rows
+  📥 ASMI.JK (Yahoo)... ✅ 3001 rows
+  📥 ASPI.JK (Yahoo)... ✅ 1479 rows
+  📥 ASPR.JK (Yahoo)... ✅ 185 rows
+  📥 ASRI.JK (Yahoo)... ✅ 4490 rows
+  📥 ASRM.JK (Yahoo)... ✅ 5054 rows
+  📥 ASSA.JK (Yahoo)... ✅ 3293 rows
+  📥 ATAP.JK (Yahoo)... ✅ 1281 rows
+  📥 ATIC.JK (Yahoo)... ✅ 2639 rows
+  📥 ATLA.JK (Yahoo)... ✅ 474 rows
+  📥 AUTO.JK (Yahoo)... ✅ 6293 rows
+  📥 AVIA.JK (Yahoo)... ✅ 1039 rows
+  📥 AWAN.JK (Yahoo)... ✅ 704 rows
+📊 Batch 4 complete: 80 success, 0 failed
+----------------------------------------
+📦 Batch 5/48 (20 tickers)
+  📥 AXIO.JK (Yahoo)... ✅ 893 rows
+  📥 AYAM.JK (Yahoo)... ✅ 557 rows
+  📥 AYLS.JK (Yahoo)... ✅ 1482 rows
+  📥 BABP.JK (Yahoo)... ✅ 5882 rows
+  📥 BABY.JK (Yahoo)... ✅ 616 rows
+  📥 BACA.JK (Yahoo)... ✅ 4540 rows
+  📥 BAIK.JK (Yahoo)... ✅ 508 rows
+  📥 BAJA.JK (Yahoo)... ✅ 3515 rows
+  📥 BALI.JK (Yahoo)... ✅ 2962 rows
+  📥 BANK.JK (Yahoo)... ✅ 1249 rows
+  📥 BAPA.JK (Yahoo)... ✅ 4477 rows
+  📥 BAPI.JK (Yahoo)... ✅ 1585 rows
+  📥 BATA.JK (Yahoo)... ✅ 6064 rows
+  📥 BATR.JK (Yahoo)... ✅ 440 rows
+  📥 BAUT.JK (Yahoo)... ✅ 1003 rows
+  📥 BAYU.JK (Yahoo)... ✅ 6063 rows
+  📥 BBCA.JK (Yahoo)... ✅ 5386 rows
+  📥 BBHI.JK (Yahoo)... ✅ 2618 rows
+  📥 BBKP.JK (Yahoo)... ✅ 4855 rows
+  📥 BBLD.JK (Yahoo)... ✅ 6044 rows
+📊 Batch 5 complete: 100 success, 0 failed
+----------------------------------------
+📦 Batch 6/48 (20 tickers)
+  📥 BBMD.JK (Yahoo)... ✅ 3127 rows
+  📥 BBNI.JK (Yahoo)... ✅ 5506 rows
+  📥 BBRI.JK (Yahoo)... ✅ 5537 rows
+  📥 BBRM.JK (Yahoo)... ✅ 3257 rows
+  📥 BBSI.JK (Yahoo)... ✅ 1346 rows
+  📥 BBSS.JK (Yahoo)... ✅ 1439 rows
+  📥 BBTN.JK (Yahoo)... ✅ 4008 rows
+  📥 BBYB.JK (Yahoo)... ✅ 2768 rows
+  📥 BCAP.JK (Yahoo)... ✅ 6168 rows
+  📥 BCIC.JK (Yahoo)... ✅ 6415 rows
+  📥 BCIP.JK (Yahoo)... ✅ 4011 rows
+  📥 BDKR.JK (Yahoo)... ✅ 733 rows
+  📥 BDMN.JK (Yahoo)... ✅ 5745 rows
+  📥 BEBS.JK (Yahoo)... ✅ 1222 rows
+  📥 BEEF.JK (Yahoo)... ✅ 1762 rows
+  📥 BEER.JK (Yahoo)... ✅ 772 rows
+  📥 BEKS.JK (Yahoo)... ✅ 6143 rows
+  📥 BELI.JK (Yahoo)... ✅ 815 rows
+  📥 BELL.JK (Yahoo)... ✅ 2093 rows
+  📥 BESS.JK (Yahoo)... ✅ 1464 rows
+📊 Batch 6 complete: 120 success, 0 failed
+----------------------------------------
+📦 Batch 7/48 (20 tickers)
+  📥 BEST.JK (Yahoo)... ✅ 3432 rows
+  📥 BFIN.JK (Yahoo)... ✅ 6186 rows
+  📥 BGTG.JK (Yahoo)... ✅ 2441 rows
+  📥 BHAT.JK (Yahoo)... ✅ 1439 rows
+  📥 BHIT.JK (Yahoo)... ✅ 6214 rows
+  📥 BIKA.JK (Yahoo)... ✅ 2633 rows
+  📥 BIKE.JK (Yahoo)... ✅ 970 rows
+  📥 BIMA.JK (Yahoo)... ✅ 6053 rows
+  📥 BINA.JK (Yahoo)... ✅ 3010 rows
+  📥 BINO.JK (Yahoo)... ✅ 1048 rows
+  📥 BIPI.JK (Yahoo)... ✅ 3973 rows
+  📥 BIPP.JK (Yahoo)... ✅ 6033 rows
+  📥 BIRD.JK (Yahoo)... ✅ 2804 rows
+  📥 BISI.JK (Yahoo)... ✅ 4631 rows
+  📥 BJBR.JK (Yahoo)... ✅ 3873 rows
+  📥 BJTM.JK (Yahoo)... ✅ 3375 rows
+  📥 BKDP.JK (Yahoo)... ✅ 4617 rows
+  📥 BKSL.JK (Yahoo)... ✅ 5054 rows
+  📥 BKSW.JK (Yahoo)... ✅ 5789 rows
+  📥 BLES.JK (Yahoo)... ✅ 422 rows
+📊 Batch 7 complete: 140 success, 0 failed
+----------------------------------------
+📦 Batch 8/48 (20 tickers)
+  📥 BLOG.JK (Yahoo)... ✅ 184 rows
+  📥 BLTA.JK (Yahoo)... ✅ 5995 rows
+  📥 BLTZ.JK (Yahoo)... ✅ 2825 rows
+  📥 BLUE.JK (Yahoo)... ✅ 1635 rows
+  📥 BMAS.JK (Yahoo)... ✅ 3131 rows
+  📥 BMBL.JK (Yahoo)... ✅ 769 rows
+  📥 BMHS.JK (Yahoo)... ✅ 1146 rows
+  📥 BMRI.JK (Yahoo)... ✅ 5622 rows
+  📥 BMSR.JK (Yahoo)... ✅ 5985 rows
+  📥 BMTR.JK (Yahoo)... ✅ 5053 rows
+  📥 BNBA.JK (Yahoo)... ✅ 4882 rows
+  📥 BNBR.JK (Yahoo)... ✅ 6349 rows
+  📥 BNGA.JK (Yahoo)... ✅ 5774 rows
+  📥 BNII.JK (Yahoo)... ✅ 5296 rows
+  📥 BNLI.JK (Yahoo)... ✅ 5386 rows
+  📥 BOAT.JK (Yahoo)... ✅ 332 rows
+  📥 BOBA.JK (Yahoo)... ✅ 1066 rows
+  📥 BOGA.JK (Yahoo)... ✅ 2290 rows
+  📥 BOLA.JK (Yahoo)... ✅ 1649 rows
+  📥 BOLT.JK (Yahoo)... ✅ 2639 rows
+📊 Batch 8 complete: 160 success, 0 failed
+----------------------------------------
+📦 Batch 9/48 (20 tickers)
+  📥 BOSS.JK (Yahoo)... ✅ 1995 rows
+  📥 BPFI.JK (Yahoo)... ✅ 4145 rows
+  📥 BPII.JK (Yahoo)... ✅ 2832 rows
+  📥 BPTR.JK (Yahoo)... ✅ 1895 rows
+  📥 BRAM.JK (Yahoo)... ✅ 5922 rows
+  📥 BREN.JK (Yahoo)... ✅ 595 rows
+  📥 BRIS.JK (Yahoo)... ✅ 1937 rows
+  📥 BRMS.JK (Yahoo)... ✅ 3771 rows
+  📥 BRNA.JK (Yahoo)... ✅ 6339 rows
+  📥 BRPT.JK (Yahoo)... ✅ 5895 rows
+  📥 BRRC.JK (Yahoo)... ✅ 295 rows
+  📥 BSBK.JK (Yahoo)... ✅ 815 rows
+  📥 BSDE.JK (Yahoo)... ✅ 4382 rows
+  📥 BSIM.JK (Yahoo)... ✅ 3730 rows
+  📥 BSML.JK (Yahoo)... ✅ 1033 rows
+  📥 BSSR.JK (Yahoo)... ✅ 3294 rows
+  📥 BSWD.JK (Yahoo)... ✅ 5933 rows
+  📥 BTEK.JK (Yahoo)... ✅ 5402 rows
+  📥 BTEL.JK (Yahoo)... ✅ 4965 rows
+  📥 BTON.JK (Yahoo)... ✅ 6138 rows
+📊 Batch 9 complete: 180 success, 0 failed
+----------------------------------------
+📦 Batch 10/48 (20 tickers)
+  📥 BTPN.JK (Yahoo)... ✅ 4438 rows
+  📥 BTPS.JK (Yahoo)... ✅ 1937 rows
+  📥 BUAH.JK (Yahoo)... ✅ 879 rows
+  📥 BUDI.JK (Yahoo)... ✅ 5921 rows
+  📥 BUKA.JK (Yahoo)... ✅ 1124 rows
+  📥 BUKK.JK (Yahoo)... ✅ 2654 rows
+  📥 BULL.JK (Yahoo)... ✅ 3660 rows
+  📥 BUMI.JK (Yahoo)... ✅ 6169 rows
+  📥 BUVA.JK (Yahoo)... ✅ 3870 rows
+  📥 BVIC.JK (Yahoo)... ✅ 6382 rows
+  📥 BWPT.JK (Yahoo)... ✅ 4043 rows
+  📥 BYAN.JK (Yahoo)... ✅ 4337 rows
+  📥 CAKK.JK (Yahoo)... ✅ 1812 rows
+  📥 CAMP.JK (Yahoo)... ✅ 2038 rows
+  📥 CANI.JK (Yahoo)... ✅ 3002 rows
+  📥 CARE.JK (Yahoo)... ✅ 1460 rows
+  📥 CARS.JK (Yahoo)... ✅ 2213 rows
+  📥 CASA.JK (Yahoo)... ✅ 2397 rows
+  📥 CASH.JK (Yahoo)... ✅ 1427 rows
+  📥 CASS.JK (Yahoo)... ✅ 3528 rows
+📊 Batch 10 complete: 200 success, 0 failed
+----------------------------------------
+📦 Batch 11/48 (20 tickers)
+  📥 CBDK.JK (Yahoo)... ✅ 293 rows
+  📥 CBMF.JK (Yahoo)... ✅ 1441 rows
+  📥 CBPE.JK (Yahoo)... ✅ 772 rows
+  📥 CBRE.JK (Yahoo)... ✅ 771 rows
+  📥 CBUT.JK (Yahoo)... ✅ 815 rows
+  📥 CCSI.JK (Yahoo)... ✅ 1649 rows
+  📥 CDIA.JK (Yahoo)... ✅ 185 rows
+  📥 CEKA.JK (Yahoo)... ✅ 6193 rows
+  📥 CENT.JK (Yahoo)... ✅ 6063 rows
+  📥 CFIN.JK (Yahoo)... ✅ 5629 rows
+  📥 CGAS.JK (Yahoo)... ✅ 533 rows
+  📥 CHEK.JK (Yahoo)... ✅ 184 rows
+  📥 CHEM.JK (Yahoo)... ✅ 901 rows
+  📥 CHIP.JK (Yahoo)... ✅ 750 rows
+  📥 CINT.JK (Yahoo)... ✅ 2899 rows
+  📥 CITA.JK (Yahoo)... ✅ 5965 rows
+  📥 CITY.JK (Yahoo)... ✅ 1834 rows
+  📥 CLAY.JK (Yahoo)... ✅ 1755 rows
+  📥 CLEO.JK (Yahoo)... ✅ 2199 rows
+  📥 CLPI.JK (Yahoo)... ✅ 6041 rows
+📊 Batch 11 complete: 220 success, 0 failed
+----------------------------------------
+📦 Batch 12/48 (20 tickers)
+  📥 CMNP.JK (Yahoo)... ✅ 6120 rows
+  📥 CMNT.JK (Yahoo)... ✅ 1103 rows
+  📥 CMPP.JK (Yahoo)... ✅ 5904 rows
+  📥 CMRY.JK (Yahoo)... ✅ 1041 rows
+  📥 CNKO.JK (Yahoo)... ✅ 5529 rows
+  📥 CNMA.JK (Yahoo)... ✅ 641 rows
+  📥 CNTX.JK (Yahoo)... ✅ 5943 rows
+  📥 COAL.JK (Yahoo)... ✅ 859 rows
+  📥 COCO.JK (Yahoo)... ✅ 1713 rows
+  📥 COIN.JK (Yahoo)... ✅ 185 rows
+  📥 COWL.JK (Yahoo)... ✅ 4488 rows
+  📥 CPIN.JK (Yahoo)... ✅ 5053 rows
+  📥 CPRI.JK (Yahoo)... ✅ 1695 rows
+  📥 CPRO.JK (Yahoo)... ✅ 4754 rows
+  📥 CRAB.JK (Yahoo)... ✅ 878 rows
+  📥 CRSN.JK (Yahoo)... ✅ 657 rows
+  📥 CSAP.JK (Yahoo)... ✅ 4494 rows
+  📥 CSIS.JK (Yahoo)... ✅ 2195 rows
+  📥 CSMI.JK (Yahoo)... ✅ 1442 rows
+  📥 CSRA.JK (Yahoo)... ✅ 1506 rows
+📊 Batch 12 complete: 240 success, 0 failed
+----------------------------------------
+📦 Batch 13/48 (20 tickers)
+  📥 CTBN.JK (Yahoo)... ✅ 5904 rows
+  📥 CTRA.JK (Yahoo)... ✅ 6324 rows
+  📥 CTTH.JK (Yahoo)... ✅ 6129 rows
+  📥 CUAN.JK (Yahoo)... ✅ 730 rows
+  📥 CYBR.JK (Yahoo)... ✅ 637 rows
+  📥 DAAZ.JK (Yahoo)... ✅ 333 rows
+  📥 DADA.JK (Yahoo)... ✅ 1480 rows
+  📥 DART.JK (Yahoo)... ✅ 5900 rows
+  📥 DATA.JK (Yahoo)... ✅ 460 rows
+  📥 DAYA.JK (Yahoo)... ✅ 2408 rows
+  📥 DCII.JK (Yahoo)... ✅ 1267 rows
+  📥 DEAL.JK (Yahoo)... ✅ 1804 rows
+  📥 DEFI.JK (Yahoo)... ✅ 6194 rows
+  📥 DEPO.JK (Yahoo)... ✅ 1048 rows
+  📥 DEWA.JK (Yahoo)... ✅ 4546 rows
+  📥 DEWI.JK (Yahoo)... ✅ 895 rows
+  📥 DFAM.JK (Yahoo)... ✅ 1946 rows
+  📥 DGIK.JK (Yahoo)... ✅ 4488 rows
+  📥 DGNS.JK (Yahoo)... ✅ 1260 rows
+  📥 DGWG.JK (Yahoo)... ✅ 293 rows
+📊 Batch 13 complete: 260 success, 0 failed
+----------------------------------------
+📦 Batch 14/48 (20 tickers)
+  📥 DIGI.JK (Yahoo)... ✅ 1844 rows
+  📥 DILD.JK (Yahoo)... ✅ 5961 rows
+  📥 DIVA.JK (Yahoo)... ✅ 1794 rows
+  📥 DKFT.JK (Yahoo)... ✅ 4499 rows
+  📥 DKHH.JK (Yahoo)... ✅ 210 rows
+  📥 DLTA.JK (Yahoo)... ✅ 5913 rows
+  📥 DMAS.JK (Yahoo)... ✅ 2665 rows
+  📥 DMMX.JK (Yahoo)... ✅ 1560 rows
+  📥 DMND.JK (Yahoo)... ✅ 1497 rows
+  📥 DNAR.JK (Yahoo)... ✅ 2890 rows
+  📥 DNET.JK (Yahoo)... ✅ 6296 rows
+  📥 DOID.JK (Yahoo)... ✅ 6162 rows
+  📥 DOOH.JK (Yahoo)... ✅ 696 rows
+  📥 DOSS.JK (Yahoo)... ✅ 400 rows
+  📥 DPNS.JK (Yahoo)... ✅ 5053 rows
+  📥 DPUM.JK (Yahoo)... ✅ 2536 rows
+  📥 DRMA.JK (Yahoo)... ✅ 1031 rows
+  📥 DSFI.JK (Yahoo)... ✅ 6266 rows
+  📥 DSNG.JK (Yahoo)... ✅ 3149 rows
+  📥 DSSA.JK (Yahoo)... ✅ 4013 rows
+📊 Batch 14 complete: 280 success, 0 failed
+----------------------------------------
+📦 Batch 15/48 (20 tickers)
+  📥 DUCK.JK (Yahoo)... ✅ 1826 rows
+  📥 DUTI.JK (Yahoo)... ✅ 6015 rows
+  📥 DVLA.JK (Yahoo)... ✅ 6033 rows
+  📥 DWGL.JK (Yahoo)... ✅ 2042 rows
+  📥 DYAN.JK (Yahoo)... ✅ 3205 rows
+  📥 EAST.JK (Yahoo)... ✅ 1634 rows
+  📥 ECII.JK (Yahoo)... ✅ 3129 rows
+  📥 EDGE.JK (Yahoo)... ✅ 1243 rows
+  📥 EKAD.JK (Yahoo)... ✅ 5054 rows
+  📥 ELIT.JK (Yahoo)... ✅ 772 rows
+  📥 ELPI.JK (Yahoo)... ✅ 880 rows
+  📥 ELSA.JK (Yahoo)... ✅ 4460 rows
+  📥 ELTY.JK (Yahoo)... ✅ 5903 rows
+  📥 EMAS.JK (Yahoo)... ✅ 133 rows
+  📥 EMDE.JK (Yahoo)... ✅ 3748 rows
+  📥 EMTK.JK (Yahoo)... ✅ 3995 rows
+  📥 ENAK.JK (Yahoo)... ✅ 997 rows
+  📥 ENRG.JK (Yahoo)... ✅ 5387 rows
+  📥 ENVY.JK (Yahoo)... ✅ 1634 rows
+  📥 ENZO.JK (Yahoo)... ✅ 1341 rows
+📊 Batch 15 complete: 300 success, 0 failed
+----------------------------------------
+📦 Batch 16/48 (20 tickers)
+  📥 EPAC.JK (Yahoo)... ✅ 1390 rows
+  📥 EPMT.JK (Yahoo)... ✅ 5053 rows
+  📥 ERAA.JK (Yahoo)... ✅ 3521 rows
+  📥 ERAL.JK (Yahoo)... ✅ 637 rows
+  📥 ERTX.JK (Yahoo)... ✅ 6034 rows
+  📥 ESIP.JK (Yahoo)... ✅ 1542 rows
+  📥 ESSA.JK (Yahoo)... ✅ 3487 rows
+  📥 ESTA.JK (Yahoo)... ✅ 1464 rows
+  📥 ESTI.JK (Yahoo)... ✅ 6296 rows
+  📥 ETWA.JK (Yahoo)... ✅ 6252 rows
+  📥 EURO.JK (Yahoo)... ✅ 880 rows
+  📥 EXCL.JK (Yahoo)... ✅ 5054 rows
+  📥 FAPA.JK (Yahoo)... ✅ 1269 rows
+  📥 FAST.JK (Yahoo)... ✅ 6294 rows
+  📥 FASW.JK (Yahoo)... ✅ 6184 rows
+  📥 FILM.JK (Yahoo)... ✅ 1873 rows
+  📥 FIMP.JK (Yahoo)... ✅ 1202 rows
+  📥 FIRE.JK (Yahoo)... ✅ 2174 rows
+  📥 FISH.JK (Yahoo)... ✅ 6008 rows
+  📥 FITT.JK (Yahoo)... ✅ 1653 rows
+📊 Batch 16 complete: 320 success, 0 failed
+----------------------------------------
+📦 Batch 17/48 (20 tickers)
+  📥 FLMC.JK (Yahoo)... ✅ 1144 rows
+  📥 FMII.JK (Yahoo)... ✅ 5890 rows
+  📥 FOLK.JK (Yahoo)... ✅ 638 rows
+  📥 FOOD.JK (Yahoo)... ✅ 1763 rows
+  📥 FORE.JK (Yahoo)... ✅ 237 rows
+  📥 FORU.JK (Yahoo)... ✅ 6008 rows
+  📥 FPNI.JK (Yahoo)... ✅ 5963 rows
+  📥 FUJI.JK (Yahoo)... ✅ 1634 rows
+  📥 FUTR.JK (Yahoo)... ✅ 737 rows
+  📥 FWCT.JK (Yahoo)... ✅ 755 rows
+  📥 GAMA.JK (Yahoo)... ✅ 3375 rows
+  📥 GDST.JK (Yahoo)... ✅ 4004 rows
+  📥 GDYR.JK (Yahoo)... ✅ 5903 rows
+  📥 GEMA.JK (Yahoo)... ✅ 5862 rows
+  📥 GEMS.JK (Yahoo)... ✅ 3540 rows
+  📥 GGRM.JK (Yahoo)... ✅ 6168 rows
+  📥 GGRP.JK (Yahoo)... ✅ 1582 rows
+  📥 GHON.JK (Yahoo)... ✅ 1959 rows
+  📥 GIAA.JK (Yahoo)... ✅ 3728 rows
+  📥 GJTL.JK (Yahoo)... ✅ 5913 rows
+📊 Batch 17 complete: 340 success, 0 failed
+----------------------------------------
+📦 Batch 18/48 (20 tickers)
+  📥 GLOB.JK (Yahoo)... ✅ 3377 rows
+  📥 GLVA.JK (Yahoo)... ✅ 1515 rows
+  📥 GMFI.JK (Yahoo)... ✅ 2088 rows
+  📥 GMTD.JK (Yahoo)... ✅ 6297 rows
+  📥 GOLD.JK (Yahoo)... ✅ 3874 rows
+  📥 GOLF.JK (Yahoo)... ✅ 422 rows
+  📥 GOLL.JK (Yahoo)... ✅ 2770 rows
+  📥 GOOD.JK (Yahoo)... ✅ 1828 rows
+  📥 GOTO.JK (Yahoo)... ✅ 955 rows
+  📥 GPRA.JK (Yahoo)... ✅ 4535 rows
+  📥 GPSO.JK (Yahoo)... ✅ 1105 rows
+  📥 GRIA.JK (Yahoo)... ✅ 637 rows
+  📥 GRPH.JK (Yahoo)... ✅ 525 rows
+  📥 GRPM.JK (Yahoo)... ✅ 657 rows
+  📥 GSMF.JK (Yahoo)... ✅ 6061 rows
+  📥 GTBO.JK (Yahoo)... ✅ 4117 rows
+  📥 GTRA.JK (Yahoo)... ✅ 716 rows
+  📥 GTSI.JK (Yahoo)... ✅ 1103 rows
+  📥 GULA.JK (Yahoo)... ✅ 883 rows
+  📥 GUNA.JK (Yahoo)... ✅ 421 rows
+📊 Batch 18 complete: 360 success, 0 failed
+----------------------------------------
+📦 Batch 19/48 (20 tickers)
+  📥 GWSA.JK (Yahoo)... ✅ 3513 rows
+  📥 GZCO.JK (Yahoo)... ✅ 4396 rows
+  📥 HADE.JK (Yahoo)... ✅ 5427 rows
+  📥 HAIS.JK (Yahoo)... ✅ 1108 rows
+  📥 HAJJ.JK (Yahoo)... ✅ 712 rows
+  📥 HALO.JK (Yahoo)... ✅ 750 rows
+  📥 HATM.JK (Yahoo)... ✅ 889 rows
+  📥 HBAT.JK (Yahoo)... ✅ 638 rows
+  📥 HDFA.JK (Yahoo)... ✅ 3668 rows
+  📥 HDIT.JK (Yahoo)... ✅ 1631 rows
+  📥 HEAL.JK (Yahoo)... ✅ 1932 rows
+  📥 HELI.JK (Yahoo)... ✅ 1967 rows
+  📥 HERO.JK (Yahoo)... ✅ 6152 rows
+  📥 HEXA.JK (Yahoo)... ✅ 5871 rows
+  📥 HGII.JK (Yahoo)... ✅ 295 rows
+  📥 HILL.JK (Yahoo)... ✅ 735 rows
+  📥 HITS.JK (Yahoo)... ✅ 5053 rows
+  📥 HKMU.JK (Yahoo)... ✅ 1827 rows
+  📥 HMSP.JK (Yahoo)... ✅ 6091 rows
+  📥 HOKI.JK (Yahoo)... ✅ 2160 rows
+📊 Batch 19 complete: 380 success, 0 failed
+----------------------------------------
+📦 Batch 20/48 (20 tickers)
+  📥 HOME.JK (Yahoo)... ✅ 4352 rows
+  📥 HOMI.JK (Yahoo)... ✅ 1343 rows
+  📥 HOPE.JK (Yahoo)... ✅ 1175 rows
+  📥 HOTL.JK (Yahoo)... ✅ 3253 rows
+  📥 HRME.JK (Yahoo)... ✅ 1695 rows
+  📥 HRTA.JK (Yahoo)... ✅ 2166 rows
+  📥 HRUM.JK (Yahoo)... ✅ 3815 rows
+  📥 HUMI.JK (Yahoo)... ✅ 636 rows
+  📥 HYGN.JK (Yahoo)... ✅ 509 rows
+  📥 IATA.JK (Yahoo)... ✅ 4808 rows
+  📥 IBFN.JK (Yahoo)... ✅ 2771 rows
+  📥 IBOS.JK (Yahoo)... ✅ 946 rows
+  📥 IBST.JK (Yahoo)... ✅ 3344 rows
+  📥 ICBP.JK (Yahoo)... ✅ 6346 rows
+  📥 ICON.JK (Yahoo)... ✅ 4672 rows
+  📥 IDEA.JK (Yahoo)... ✅ 1102 rows
+  📥 IDPR.JK (Yahoo)... ✅ 2534 rows
+  📥 IFII.JK (Yahoo)... ✅ 1524 rows
+  📥 IFSH.JK (Yahoo)... ✅ 1527 rows
+  📥 IGAR.JK (Yahoo)... ✅ 6313 rows
+📊 Batch 20 complete: 400 success, 0 failed
+----------------------------------------
+📦 Batch 21/48 (20 tickers)
+  📥 IIKP.JK (Yahoo)... ✅ 5816 rows
+  📥 IKAI.JK (Yahoo)... ✅ 6033 rows
+  📥 IKAN.JK (Yahoo)... ✅ 1482 rows
+  📥 IKBI.JK (Yahoo)... ✅ 5933 rows
+  📥 IKPM.JK (Yahoo)... ✅ 573 rows
+  📥 IMAS.JK (Yahoo)... ✅ 6034 rows
+  📥 IMJS.JK (Yahoo)... ✅ 3023 rows
+  📥 IMPC.JK (Yahoo)... ✅ 2775 rows
+  📥 INAF.JK (Yahoo)... ✅ 6203 rows
+  📥 INAI.JK (Yahoo)... ✅ 5932 rows
+  📥 INCF.JK (Yahoo)... ✅ 5903 rows
+  📥 INCI.JK (Yahoo)... ✅ 6254 rows
+  📥 INCO.JK (Yahoo)... ✅ 5053 rows
+  📥 INDF.JK (Yahoo)... ✅ 6347 rows
+  📥 INDO.JK (Yahoo)... ✅ 1504 rows
+  📥 INDR.JK (Yahoo)... ✅ 5914 rows
+  📥 INDS.JK (Yahoo)... ✅ 6094 rows
+  📥 INDX.JK (Yahoo)... ✅ 6177 rows
+  📥 INDY.JK (Yahoo)... ✅ 4380 rows
+  📥 INET.JK (Yahoo)... ✅ 648 rows
+📊 Batch 21 complete: 420 success, 0 failed
+----------------------------------------
+📦 Batch 22/48 (20 tickers)
+  📥 INKP.JK (Yahoo)... ✅ 6293 rows
+  📥 INOV.JK (Yahoo)... ✅ 1633 rows
+  📥 INPC.JK (Yahoo)... ✅ 5961 rows
+  📥 INPP.JK (Yahoo)... ✅ 4938 rows
+  📥 INPS.JK (Yahoo)... ✅ 1960 rows
+  📥 INRU.JK (Yahoo)... ✅ 4500 rows
+  📥 INTA.JK (Yahoo)... ✅ 6320 rows
+  📥 INTD.JK (Yahoo)... ✅ 5915 rows
+  📥 INTP.JK (Yahoo)... ✅ 6299 rows
+  📥 IOTF.JK (Yahoo)... ✅ 596 rows
+  📥 IPAC.JK (Yahoo)... ✅ 1150 rows
+  📥 IPCC.JK (Yahoo)... ✅ 1894 rows
+  📥 IPCM.JK (Yahoo)... ✅ 2035 rows
+  📥 IPOL.JK (Yahoo)... ✅ 3872 rows
+  📥 IPPE.JK (Yahoo)... ✅ 1037 rows
+  📥 IPTV.JK (Yahoo)... ✅ 1635 rows
+  📥 IRRA.JK (Yahoo)... ✅ 1564 rows
+  📥 IRSX.JK (Yahoo)... ✅ 751 rows
+  📥 ISAP.JK (Yahoo)... ✅ 792 rows
+  📥 ISAT.JK (Yahoo)... ✅ 5444 rows
+📊 Batch 22 complete: 440 success, 0 failed
+----------------------------------------
+📦 Batch 23/48 (20 tickers)
+  📥 ISEA.JK (Yahoo)... ✅ 422 rows
+  📥 ISSP.JK (Yahoo)... ✅ 3225 rows
+  📥 ITIC.JK (Yahoo)... ✅ 1637 rows
+  📥 ITMA.JK (Yahoo)... ✅ 4500 rows
+  📥 ITMG.JK (Yahoo)... ✅ 4490 rows
+  📥 JARR.JK (Yahoo)... ✅ 882 rows
+  📥 JAST.JK (Yahoo)... ✅ 1672 rows
+  📥 JATI.JK (Yahoo)... ✅ 696 rows
+  📥 JAWA.JK (Yahoo)... ✅ 3654 rows
+  📥 JAYA.JK (Yahoo)... ✅ 1732 rows
+  📥 JECC.JK (Yahoo)... ✅ 6064 rows
+  📥 JGLE.JK (Yahoo)... ✅ 2405 rows
+  📥 JIHD.JK (Yahoo)... ✅ 5405 rows
+  📥 JKON.JK (Yahoo)... ✅ 4500 rows
+  📥 JMAS.JK (Yahoo)... ✅ 2039 rows
+  📥 JPFA.JK (Yahoo)... ✅ 6260 rows
+  📥 JRPT.JK (Yahoo)... ✅ 5054 rows
+  📥 JSKY.JK (Yahoo)... ✅ 1966 rows
+  📥 JSMR.JK (Yahoo)... ✅ 4515 rows
+  📥 JSPT.JK (Yahoo)... ✅ 5932 rows
+📊 Batch 23 complete: 460 success, 0 failed
+----------------------------------------
+📦 Batch 24/48 (20 tickers)
+  📥 JTPE.JK (Yahoo)... ✅ 5946 rows
+  📥 KAEF.JK (Yahoo)... ✅ 6148 rows
+  📥 KAQI.JK (Yahoo)... ✅ 256 rows
+  📥 KARW.JK (Yahoo)... ✅ 5994 rows
+  📥 KAYU.JK (Yahoo)... ✅ 1636 rows
+  📥 KBAG.JK (Yahoo)... ✅ 1443 rows
+  📥 KBLI.JK (Yahoo)... ✅ 5054 rows
+  📥 KBLM.JK (Yahoo)... ✅ 6067 rows
+  📥 KBLV.JK (Yahoo)... ✅ 6219 rows
+  📥 KBRI.JK (Yahoo)... ✅ 4357 rows
+  📥 KDSI.JK (Yahoo)... ✅ 6421 rows
+  📥 KDTN.JK (Yahoo)... ✅ 814 rows
+  📥 KEEN.JK (Yahoo)... ✅ 1595 rows
+  📥 KEJU.JK (Yahoo)... ✅ 1535 rows
+  📥 KETR.JK (Yahoo)... ✅ 813 rows
+  📥 KIAS.JK (Yahoo)... ✅ 4500 rows
+  📥 KICI.JK (Yahoo)... ✅ 5933 rows
+  📥 KIJA.JK (Yahoo)... ✅ 6091 rows
+  📥 KING.JK (Yahoo)... ✅ 744 rows
+  📥 KINO.JK (Yahoo)... ✅ 2533 rows
+📊 Batch 24 complete: 480 success, 0 failed
+----------------------------------------
+📦 Batch 25/48 (20 tickers)
+  📥 KIOS.JK (Yahoo)... ✅ 2092 rows
+  📥 KJEN.JK (Yahoo)... ✅ 1640 rows
+  📥 KKES.JK (Yahoo)... ✅ 880 rows
+  📥 KKGI.JK (Yahoo)... ✅ 5054 rows
+  📥 KLAS.JK (Yahoo)... ✅ 674 rows
+  📥 KLBF.JK (Yahoo)... ✅ 5512 rows
+  📥 KLIN.JK (Yahoo)... ✅ 879 rows
+  📥 KMDS.JK (Yahoo)... ✅ 1346 rows
+  📥 KMTR.JK (Yahoo)... ✅ 2168 rows
+  📥 KOBX.JK (Yahoo)... ✅ 3379 rows
+  📥 KOCI.JK (Yahoo)... ✅ 596 rows
+  📥 KOIN.JK (Yahoo)... ✅ 4420 rows
+  📥 KOKA.JK (Yahoo)... ✅ 593 rows
+  📥 KONI.JK (Yahoo)... ✅ 5981 rows
+  📥 KOPI.JK (Yahoo)... ✅ 6191 rows
+  📥 KOTA.JK (Yahoo)... ✅ 1634 rows
+  📥 KPIG.JK (Yahoo)... ✅ 6478 rows
+  📥 KRAS.JK (Yahoo)... ✅ 3789 rows
+  📥 KREN.JK (Yahoo)... ✅ 5893 rows
+  📥 KRYA.JK (Yahoo)... ✅ 889 rows
+📊 Batch 25 complete: 500 success, 0 failed
+----------------------------------------
+📦 Batch 26/48 (20 tickers)
+  📥 KSIX.JK (Yahoo)... ✅ 296 rows
+  📥 KUAS.JK (Yahoo)... ✅ 1071 rows
+  📥 LABA.JK (Yahoo)... ✅ 1164 rows
+  📥 LABS.JK (Yahoo)... ✅ 420 rows
+  📥 LAJU.JK (Yahoo)... ✅ 758 rows
+  📥 LAND.JK (Yahoo)... ✅ 1861 rows
+  📥 LAPD.JK (Yahoo)... ✅ 6139 rows
+  📥 LCGP.JK (Yahoo)... ✅ 4597 rows
+  📥 LCKM.JK (Yahoo)... ✅ 2018 rows
+  📥 LEAD.JK (Yahoo)... ✅ 3022 rows
+  📥 LFLO.JK (Yahoo)... ✅ 1205 rows
+  📥 LIFE.JK (Yahoo)... ✅ 1634 rows
+  📥 LINK.JK (Yahoo)... ✅ 2851 rows
+  📥 LION.JK (Yahoo)... ✅ 5942 rows
+  📥 LIVE.JK (Yahoo)... ✅ 510 rows
+  📥 LMAS.JK (Yahoo)... ✅ 6022 rows
+  📥 LMAX.JK (Yahoo)... ✅ 636 rows
+  📥 LMPI.JK (Yahoo)... ✅ 6294 rows
+  📥 LMSH.JK (Yahoo)... ✅ 5941 rows
+  📥 LOPI.JK (Yahoo)... ✅ 593 rows
+📊 Batch 26 complete: 520 success, 0 failed
+----------------------------------------
+📦 Batch 27/48 (20 tickers)
+  📥 LPCK.JK (Yahoo)... ✅ 5962 rows
+  📥 LPGI.JK (Yahoo)... ✅ 6185 rows
+  📥 LPIN.JK (Yahoo)... ✅ 5829 rows
+  📥 LPKR.JK (Yahoo)... ✅ 5054 rows
+  📥 LPLI.JK (Yahoo)... ✅ 6294 rows
+  📥 LPPF.JK (Yahoo)... ✅ 5053 rows
+  📥 LPPS.JK (Yahoo)... ✅ 6315 rows
+  📥 LRNA.JK (Yahoo)... ✅ 2825 rows
+  📥 LSIP.JK (Yahoo)... ✅ 5941 rows
+  📥 LTLS.JK (Yahoo)... ✅ 6260 rows
+  📥 LUCK.JK (Yahoo)... ✅ 1792 rows
+  📥 LUCY.JK (Yahoo)... ✅ 1185 rows
+  📥 MABA.JK (Yahoo)... ✅ 2165 rows
+  📥 MAGP.JK (Yahoo)... ✅ 3238 rows
+  📥 MAHA.JK (Yahoo)... ✅ 647 rows
+  📥 MAIN.JK (Yahoo)... ✅ 4961 rows
+  📥 MANG.JK (Yahoo)... ✅ 530 rows
+  📥 MAPA.JK (Yahoo)... ✅ 1897 rows
+  📥 MAPB.JK (Yahoo)... ✅ 2166 rows
+  📥 MAPI.JK (Yahoo)... ✅ 5274 rows
+📊 Batch 27 complete: 540 success, 0 failed
+----------------------------------------
+📦 Batch 28/48 (20 tickers)
+  📥 MARI.JK (Yahoo)... ✅ 2494 rows
+  📥 MARK.JK (Yahoo)... ✅ 2151 rows
+  📥 MASB.JK (Yahoo)... ✅ 1150 rows
+  📥 MAXI.JK (Yahoo)... ✅ 674 rows
+  📥 MAYA.JK (Yahoo)... ✅ 5054 rows
+  📥 MBAP.JK (Yahoo)... ✅ 2831 rows
+  📥 MBMA.JK (Yahoo)... ✅ 704 rows
+  📥 MBSS.JK (Yahoo)... ✅ 3690 rows
+  📥 MBTO.JK (Yahoo)... ✅ 3747 rows
+  📥 MCAS.JK (Yahoo)... ✅ 2072 rows
+  📥 MCOL.JK (Yahoo)... ✅ 1104 rows
+  📥 MCOR.JK (Yahoo)... ✅ 4606 rows
+  📥 MDIA.JK (Yahoo)... ✅ 2942 rows
+  📥 MDIY.JK (Yahoo)... ✅ 306 rows
+  📥 MDKA.JK (Yahoo)... ✅ 2652 rows
+  📥 MDKI.JK (Yahoo)... ✅ 2099 rows
+  📥 MDLA.JK (Yahoo)... ✅ 237 rows
+  📥 MDLN.JK (Yahoo)... ✅ 6043 rows
+  📥 MDRN.JK (Yahoo)... ✅ 5942 rows
+  📥 MEDC.JK (Yahoo)... ✅ 6431 rows
+📊 Batch 28 complete: 560 success, 0 failed
+----------------------------------------
+📦 Batch 29/48 (20 tickers)
+  📥 MEDS.JK (Yahoo)... ✅ 878 rows
+  📥 MEGA.JK (Yahoo)... ✅ 5054 rows
+  📥 MEJA.JK (Yahoo)... ✅ 510 rows
+  📥 MENN.JK (Yahoo)... ✅ 703 rows
+  📥 MERI.JK (Yahoo)... ✅ 184 rows
+  📥 MERK.JK (Yahoo)... ✅ 5933 rows
+  📥 META.JK (Yahoo)... ✅ 5052 rows
+  📥 MFMI.JK (Yahoo)... ✅ 3756 rows
+  📥 MGLV.JK (Yahoo)... ✅ 1166 rows
+  📥 MGNA.JK (Yahoo)... ✅ 2833 rows
+  📥 MGRO.JK (Yahoo)... ✅ 1891 rows
+  📥 MHKI.JK (Yahoo)... ✅ 474 rows
+  📥 MICE.JK (Yahoo)... ✅ 4997 rows
+  📥 MIDI.JK (Yahoo)... ✅ 3777 rows
+  📥 MIKA.JK (Yahoo)... ✅ 2710 rows
+  📥 MINA.JK (Yahoo)... ✅ 2201 rows
+  📥 MINE.JK (Yahoo)... ✅ 256 rows
+  📥 MIRA.JK (Yahoo)... ✅ 5053 rows
+  📥 MITI.JK (Yahoo)... ✅ 6341 rows
+  📥 MKAP.JK (Yahoo)... ✅ 510 rows
+📊 Batch 29 complete: 580 success, 0 failed
+----------------------------------------
+📦 Batch 30/48 (20 tickers)
+  📥 MKNT.JK (Yahoo)... ✅ 2566 rows
+  📥 MKPI.JK (Yahoo)... ✅ 4115 rows
+  📥 MKTR.JK (Yahoo)... ✅ 815 rows
+  📥 MLBI.JK (Yahoo)... ✅ 5994 rows
+  📥 MLIA.JK (Yahoo)... ✅ 6310 rows
+  📥 MLPL.JK (Yahoo)... ✅ 5054 rows
+  📥 MLPT.JK (Yahoo)... ✅ 3127 rows
+  📥 MMIX.JK (Yahoo)... ✅ 795 rows
+  📥 MMLP.JK (Yahoo)... ✅ 2656 rows
+  📥 MNCN.JK (Yahoo)... ✅ 4612 rows
+  📥 MOLI.JK (Yahoo)... ✅ 1856 rows
+  📥 MORA.JK (Yahoo)... ✅ 880 rows
+  📥 MPIX.JK (Yahoo)... ✅ 511 rows
+  📥 MPMX.JK (Yahoo)... ✅ 3160 rows
+  📥 MPOW.JK (Yahoo)... ✅ 2156 rows
+  📥 MPPA.JK (Yahoo)... ✅ 6339 rows
+  📥 MPRO.JK (Yahoo)... ✅ 1826 rows
+  📥 MPXL.JK (Yahoo)... ✅ 695 rows
+  📥 MRAT.JK (Yahoo)... ✅ 5867 rows
+  📥 MREI.JK (Yahoo)... ✅ 5054 rows
+📊 Batch 30 complete: 600 success, 0 failed
+----------------------------------------
+📦 Batch 31/48 (20 tickers)
+  📥 MSIE.JK (Yahoo)... ✅ 635 rows
+  📥 MSIN.JK (Yahoo)... ✅ 1915 rows
+  📥 MSJA.JK (Yahoo)... ✅ 531 rows
+  📥 MSKY.JK (Yahoo)... ✅ 3378 rows
+  📥 MSTI.JK (Yahoo)... ✅ 573 rows
+  📥 MTDL.JK (Yahoo)... ✅ 6416 rows
+  📥 MTEL.JK (Yahoo)... ✅ 1051 rows
+  📥 MTFN.JK (Yahoo)... ✅ 5714 rows
+  📥 MTLA.JK (Yahoo)... ✅ 3640 rows
+  📥 MTMH.JK (Yahoo)... ✅ 949 rows
+  📥 MTPS.JK (Yahoo)... ✅ 1696 rows
+  📥 MTRA.JK (Yahoo)... ✅ 2494 rows
+  📥 MTSM.JK (Yahoo)... ✅ 5756 rows
+  📥 MTWI.JK (Yahoo)... ✅ 2088 rows
+  📥 MUTU.JK (Yahoo)... ✅ 636 rows
+  📥 MYOH.JK (Yahoo)... ✅ 6241 rows
+  📥 MYOR.JK (Yahoo)... ✅ 6310 rows
+  📥 MYTX.JK (Yahoo)... ✅ 6054 rows
+  📥 NAIK.JK (Yahoo)... ✅ 331 rows
+  📥 NANO.JK (Yahoo)... ✅ 977 rows
+📊 Batch 31 complete: 620 success, 0 failed
+----------------------------------------
+📦 Batch 32/48 (20 tickers)
+  📥 NASA.JK (Yahoo)... ✅ 2135 rows
+  📥 NASI.JK (Yahoo)... ✅ 1036 rows
+  📥 NATO.JK (Yahoo)... ✅ 1755 rows
+  📥 NAYZ.JK (Yahoo)... ✅ 752 rows
+  📥 NCKL.JK (Yahoo)... ✅ 708 rows
+  📥 NELY.JK (Yahoo)... ✅ 3314 rows
+  📥 NEST.JK (Yahoo)... ✅ 399 rows
+  📥 NETV.JK (Yahoo)... ✅ 1005 rows
+  📥 NFCX.JK (Yahoo)... ✅ 1891 rows
+  📥 NICE.JK (Yahoo)... ✅ 532 rows
+  📥 NICK.JK (Yahoo)... ✅ 1941 rows
+  📥 NICL.JK (Yahoo)... ✅ 1143 rows
+  📥 NIKL.JK (Yahoo)... ✅ 4010 rows
+  📥 NINE.JK (Yahoo)... ✅ 796 rows
+  📥 NIRO.JK (Yahoo)... ✅ 3334 rows
+  📥 NISP.JK (Yahoo)... ✅ 5732 rows
+  📥 NOBU.JK (Yahoo)... ✅ 3168 rows
+  📥 NPGF.JK (Yahoo)... ✅ 1200 rows
+  📥 NRCA.JK (Yahoo)... ✅ 3140 rows
+  📥 NSSS.JK (Yahoo)... ✅ 728 rows
+📊 Batch 32 complete: 640 success, 0 failed
+----------------------------------------
+📦 Batch 33/48 (20 tickers)
+  📥 NTBK.JK (Yahoo)... ✅ 996 rows
+  📥 NUSA.JK (Yahoo)... ✅ 1890 rows
+  📥 NZIA.JK (Yahoo)... ✅ 1578 rows
+  📥 OASA.JK (Yahoo)... ✅ 2399 rows
+  📥 OBAT.JK (Yahoo)... ✅ 293 rows
+  📥 OBMD.JK (Yahoo)... ✅ 1039 rows
+  📥 OCAP.JK (Yahoo)... ✅ 5535 rows
+  📥 OILS.JK (Yahoo)... ✅ 1105 rows
+  📥 OKAS.JK (Yahoo)... ✅ 4911 rows
+  📥 OLIV.JK (Yahoo)... ✅ 937 rows
+  📥 OMED.JK (Yahoo)... ✅ 815 rows
+  📥 OMRE.JK (Yahoo)... ✅ 5953 rows
+  📥 OPMS.JK (Yahoo)... ✅ 1580 rows
+  📥 PACK.JK (Yahoo)... ✅ 750 rows
+  📥 PADA.JK (Yahoo)... ✅ 793 rows
+  📥 PADI.JK (Yahoo)... ✅ 3503 rows
+  📥 PALM.JK (Yahoo)... ✅ 3314 rows
+  📥 PAMG.JK (Yahoo)... ✅ 1636 rows
+  📥 PANI.JK (Yahoo)... ✅ 1844 rows
+  📥 PANR.JK (Yahoo)... ✅ 6095 rows
+📊 Batch 33 complete: 660 success, 0 failed
+----------------------------------------
+📦 Batch 34/48 (20 tickers)
+  📥 PANS.JK (Yahoo)... ✅ 6432 rows
+  📥 PART.JK (Yahoo)... ✅ 423 rows
+  📥 PBID.JK (Yahoo)... ✅ 2043 rows
+  📥 PBRX.JK (Yahoo)... ✅ 5752 rows
+  📥 PBSA.JK (Yahoo)... ✅ 2349 rows
+  📥 PCAR.JK (Yahoo)... ✅ 2030 rows
+  📥 PDES.JK (Yahoo)... ✅ 4361 rows
+  📥 PDPP.JK (Yahoo)... ✅ 814 rows
+  📥 PEGE.JK (Yahoo)... ✅ 5120 rows
+  📥 PEHA.JK (Yahoo)... ✅ 1772 rows
+  📥 PEVE.JK (Yahoo)... ✅ 761 rows
+  📥 PGAS.JK (Yahoo)... ✅ 5511 rows
+  📥 PGEO.JK (Yahoo)... ✅ 738 rows
+  📥 PGJO.JK (Yahoo)... ✅ 1499 rows
+  📥 PGLI.JK (Yahoo)... ✅ 6004 rows
+  📥 PGUN.JK (Yahoo)... ✅ 1386 rows
+  📥 PICO.JK (Yahoo)... ✅ 5897 rows
+  📥 PIPA.JK (Yahoo)... ✅ 710 rows
+  📥 PJAA.JK (Yahoo)... ✅ 5368 rows
+  📥 PJHB.JK (Yahoo)... ✅ 101 rows
+📊 Batch 34 complete: 680 success, 0 failed
+----------------------------------------
+📦 Batch 35/48 (20 tickers)
+  📥 PKPK.JK (Yahoo)... ✅ 4600 rows
+  📥 PLAN.JK (Yahoo)... ✅ 1340 rows
+  📥 PLAS.JK (Yahoo)... ✅ 5443 rows
+  📥 PLIN.JK (Yahoo)... ✅ 5053 rows
+  📥 PMJS.JK (Yahoo)... ✅ 1518 rows
+  📥 PMMP.JK (Yahoo)... ✅ 1275 rows
+  📥 PMUI.JK (Yahoo)... ✅ 184 rows
+  📥 PNBN.JK (Yahoo)... ✅ 5846 rows
+  📥 PNBS.JK (Yahoo)... ✅ 3010 rows
+  📥 PNGO.JK (Yahoo)... ✅ 1351 rows
+  📥 PNIN.JK (Yahoo)... ✅ 5650 rows
+  📥 PNLF.JK (Yahoo)... ✅ 5612 rows
+  📥 PNSE.JK (Yahoo)... ✅ 6212 rows
+  📥 POLA.JK (Yahoo)... ✅ 1800 rows
+  📥 POLI.JK (Yahoo)... ✅ 1761 rows
+  📥 POLL.JK (Yahoo)... ✅ 1891 rows
+  📥 POLU.JK (Yahoo)... ✅ 1643 rows
+  📥 POLY.JK (Yahoo)... ✅ 5903 rows
+  📥 POOL.JK (Yahoo)... ✅ 5409 rows
+  📥 PORT.JK (Yahoo)... ✅ 2230 rows
+📊 Batch 35 complete: 700 success, 0 failed
+----------------------------------------
+📦 Batch 36/48 (20 tickers)
+  📥 POSA.JK (Yahoo)... ✅ 1674 rows
+  📥 POWR.JK (Yahoo)... ✅ 2417 rows
+  📥 PPGL.JK (Yahoo)... ✅ 1377 rows
+  📥 PPRE.JK (Yahoo)... ✅ 2056 rows
+  📥 PPRI.JK (Yahoo)... ✅ 637 rows
+  📥 PPRO.JK (Yahoo)... ✅ 2680 rows
+  📥 PRAY.JK (Yahoo)... ✅ 815 rows
+  📥 PRDA.JK (Yahoo)... ✅ 2296 rows
+  📥 PRIM.JK (Yahoo)... ✅ 1931 rows
+  📥 PSAB.JK (Yahoo)... ✅ 5679 rows
+  📥 PSAT.JK (Yahoo)... ✅ 186 rows
+  📥 PSDN.JK (Yahoo)... ✅ 5679 rows
+  📥 PSGO.JK (Yahoo)... ✅ 1535 rows
+  📥 PSKT.JK (Yahoo)... ✅ 4501 rows
+  📥 PSSI.JK (Yahoo)... ✅ 2048 rows
+  📥 PTBA.JK (Yahoo)... ✅ 5766 rows
+  📥 PTDU.JK (Yahoo)... ✅ 1282 rows
+  📥 PTIS.JK (Yahoo)... ✅ 3625 rows
+  📥 PTMP.JK (Yahoo)... ✅ 732 rows
+  📥 PTMR.JK (Yahoo)... ✅ 356 rows
+📊 Batch 36 complete: 720 success, 0 failed
+----------------------------------------
+📦 Batch 37/48 (20 tickers)
+  📥 PTPP.JK (Yahoo)... ✅ 3974 rows
+  📥 PTPS.JK (Yahoo)... ✅ 595 rows
+  📥 PTPW.JK (Yahoo)... ✅ 1485 rows
+  📥 PTRO.JK (Yahoo)... ✅ 5933 rows
+  📥 PTSN.JK (Yahoo)... ✅ 4518 rows
+  📥 PTSP.JK (Yahoo)... ✅ 5054 rows
+  📥 PUDP.JK (Yahoo)... ✅ 5962 rows
+  📥 PURA.JK (Yahoo)... ✅ 1492 rows
+  📥 PURE.JK (Yahoo)... ✅ 1567 rows
+  📥 PURI.JK (Yahoo)... ✅ 1345 rows
+  📥 PWON.JK (Yahoo)... ✅ 5053 rows
+  📥 PYFA.JK (Yahoo)... ✅ 6075 rows
+  📥 PZZA.JK (Yahoo)... ✅ 1927 rows
+  📥 RAAM.JK (Yahoo)... ✅ 696 rows
+  📥 RAFI.JK (Yahoo)... ✅ 880 rows
+  📥 RAJA.JK (Yahoo)... ✅ 5744 rows
+  📥 RALS.JK (Yahoo)... ✅ 5288 rows
+  📥 RANC.JK (Yahoo)... ✅ 3400 rows
+  📥 RATU.JK (Yahoo)... ✅ 296 rows
+  📥 RBMS.JK (Yahoo)... ✅ 6366 rows
+📊 Batch 37 complete: 740 success, 0 failed
+----------------------------------------
+📦 Batch 38/48 (20 tickers)
+  📥 RCCC.JK (Yahoo)... ✅ 884 rows
+  📥 RDTX.JK (Yahoo)... ✅ 6198 rows
+  📥 REAL.JK (Yahoo)... ✅ 1526 rows
+  📥 RELF.JK (Yahoo)... ✅ 666 rows
+  📥 RELI.JK (Yahoo)... ✅ 5153 rows
+  📥 RGAS.JK (Yahoo)... ✅ 573 rows
+  📥 RICY.JK (Yahoo)... ✅ 6310 rows
+  📥 RIGS.JK (Yahoo)... ✅ 5334 rows
+  📥 RIMO.JK (Yahoo)... ✅ 6316 rows
+  📥 RISE.JK (Yahoo)... ✅ 1895 rows
+  📥 RLCO.JK (Yahoo)... ✅ 69 rows
+  📥 RMKE.JK (Yahoo)... ✅ 1040 rows
+  📥 RMKO.JK (Yahoo)... ✅ 643 rows
+  📥 ROCK.JK (Yahoo)... ✅ 1343 rows
+  📥 RODA.JK (Yahoo)... ✅ 6071 rows
+  📥 RONY.JK (Yahoo)... ✅ 1442 rows
+  📥 ROTI.JK (Yahoo)... ✅ 3880 rows
+  📥 RSCH.JK (Yahoo)... ✅ 624 rows
+  📥 RSGK.JK (Yahoo)... ✅ 1103 rows
+  📥 RUIS.JK (Yahoo)... ✅ 4853 rows
+📊 Batch 38 complete: 760 success, 0 failed
+----------------------------------------
+📦 Batch 39/48 (20 tickers)
+  📥 RUNS.JK (Yahoo)... ✅ 1103 rows
+  📥 SAFE.JK (Yahoo)... ✅ 6198 rows
+  📥 SAGE.JK (Yahoo)... ✅ 730 rows
+  📥 SAME.JK (Yahoo)... ✅ 3247 rows
+  📥 SAMF.JK (Yahoo)... ✅ 1449 rows
+  📥 SAPX.JK (Yahoo)... ✅ 1833 rows
+  📥 SATU.JK (Yahoo)... ✅ 1810 rows
+  📥 SBAT.JK (Yahoo)... ✅ 1442 rows
+  📥 SBMA.JK (Yahoo)... ✅ 1103 rows
+  📥 SCCO.JK (Yahoo)... ✅ 5962 rows
+  📥 SCMA.JK (Yahoo)... ✅ 5881 rows
+  📥 SCNP.JK (Yahoo)... ✅ 1346 rows
+  📥 SCPI.JK (Yahoo)... ✅ 5903 rows
+  📥 SDMU.JK (Yahoo)... ✅ 3626 rows
+  📥 SDPC.JK (Yahoo)... ✅ 6106 rows
+  📥 SDRA.JK (Yahoo)... ✅ 4741 rows
+  📥 SEMA.JK (Yahoo)... ✅ 1017 rows
+  📥 SFAN.JK (Yahoo)... ✅ 1647 rows
+  📥 SGER.JK (Yahoo)... ✅ 1363 rows
+  📥 SGRO.JK (Yahoo)... ✅ 4616 rows
+📊 Batch 39 complete: 780 success, 0 failed
+----------------------------------------
+📦 Batch 40/48 (20 tickers)
+  📥 SHID.JK (Yahoo)... ✅ 6174 rows
+  📥 SHIP.JK (Yahoo)... ✅ 2415 rows
+  📥 SICO.JK (Yahoo)... ✅ 956 rows
+  📥 SIDO.JK (Yahoo)... ✅ 3018 rows
+  📥 SILO.JK (Yahoo)... ✅ 3084 rows
+  📥 SIMA.JK (Yahoo)... ✅ 6259 rows
+  📥 SIMP.JK (Yahoo)... ✅ 3647 rows
+  📥 SINI.JK (Yahoo)... ✅ 1546 rows
+  📥 SIPD.JK (Yahoo)... ✅ 5400 rows
+  📥 SKBM.JK (Yahoo)... ✅ 3323 rows
+  📥 SKLT.JK (Yahoo)... ✅ 6310 rows
+  📥 SKRN.JK (Yahoo)... ✅ 1827 rows
+  📥 SKYB.JK (Yahoo)... ✅ 3873 rows
+  📥 SLIS.JK (Yahoo)... ✅ 1570 rows
+  📥 SMAR.JK (Yahoo)... ✅ 6342 rows
+  📥 SMBR.JK (Yahoo)... ✅ 3132 rows
+  📥 SMCB.JK (Yahoo)... ✅ 6017 rows
+  📥 SMDM.JK (Yahoo)... ✅ 6198 rows
+  📥 SMDR.JK (Yahoo)... ✅ 6034 rows
+  📥 SMGA.JK (Yahoo)... ✅ 517 rows
+📊 Batch 40 complete: 800 success, 0 failed
+----------------------------------------
+📦 Batch 41/48 (20 tickers)
+  📥 SMGR.JK (Yahoo)... ✅ 5054 rows
+  📥 SMIL.JK (Yahoo)... ✅ 692 rows
+  📥 SMKL.JK (Yahoo)... ✅ 1632 rows
+  📥 SMKM.JK (Yahoo)... ✅ 978 rows
+  📥 SMLE.JK (Yahoo)... ✅ 531 rows
+  📥 SMMA.JK (Yahoo)... ✅ 5716 rows
+  📥 SMMT.JK (Yahoo)... ✅ 4501 rows
+  📥 SMRA.JK (Yahoo)... ✅ 5861 rows
+  📥 SMRU.JK (Yahoo)... ✅ 3566 rows
+  📥 SMSM.JK (Yahoo)... ✅ 6017 rows
+  📥 SNLK.JK (Yahoo)... ✅ 1211 rows
+  📥 SOCI.JK (Yahoo)... ✅ 2784 rows
+  📥 SOFA.JK (Yahoo)... ✅ 1386 rows
+  📥 SOHO.JK (Yahoo)... ✅ 1345 rows
+  📥 SOLA.JK (Yahoo)... ✅ 459 rows
+  📥 SONA.JK (Yahoo)... ✅ 6452 rows
+  📥 SOSS.JK (Yahoo)... ✅ 1808 rows
+  📥 SOTS.JK (Yahoo)... ✅ 1783 rows
+  📥 SOUL.JK (Yahoo)... ✅ 772 rows
+  📥 SPMA.JK (Yahoo)... ✅ 6406 rows
+📊 Batch 41 complete: 820 success, 0 failed
+----------------------------------------
+📦 Batch 42/48 (20 tickers)
+  📥 SPRE.JK (Yahoo)... ✅ 425 rows
+  📥 SPTO.JK (Yahoo)... ✅ 1934 rows
+  📥 SQMI.JK (Yahoo)... ✅ 5357 rows
+  📥 SRAJ.JK (Yahoo)... ✅ 3687 rows
+  📥 SRIL.JK (Yahoo)... ✅ 3149 rows
+  📥 SRSN.JK (Yahoo)... ✅ 6127 rows
+  📥 SRTG.JK (Yahoo)... ✅ 3142 rows
+  📥 SSIA.JK (Yahoo)... ✅ 5961 rows
+  📥 SSMS.JK (Yahoo)... ✅ 3021 rows
+  📥 SSTM.JK (Yahoo)... ✅ 5951 rows
+  📥 STAA.JK (Yahoo)... ✅ 977 rows
+  📥 STAR.JK (Yahoo)... ✅ 3625 rows
+  📥 STRK.JK (Yahoo)... ✅ 594 rows
+  📥 STTP.JK (Yahoo)... ✅ 6029 rows
+  📥 SUGI.JK (Yahoo)... ✅ 5899 rows
+  📥 SULI.JK (Yahoo)... ✅ 5903 rows
+  📥 SUNI.JK (Yahoo)... ✅ 771 rows
+  📥 SUPA.JK (Yahoo)... ✅ 72 rows
+  📥 SUPR.JK (Yahoo)... ✅ 3566 rows
+  📥 SURE.JK (Yahoo)... ✅ 1831 rows
+📊 Batch 42 complete: 840 success, 0 failed
+----------------------------------------
+📦 Batch 43/48 (20 tickers)
+  📥 SURI.JK (Yahoo)... ✅ 552 rows
+  📥 SWAT.JK (Yahoo)... ✅ 1906 rows
+  📥 SWID.JK (Yahoo)... ✅ 902 rows
+  📥 TALF.JK (Yahoo)... ✅ 3000 rows
+  📥 TAMA.JK (Yahoo)... ✅ 1484 rows
+  📥 TAMU.JK (Yahoo)... ✅ 2196 rows
+  📥 TAPG.JK (Yahoo)... ✅ 1202 rows
+  📥 TARA.JK (Yahoo)... ✅ 2891 rows
+  📥 TAXI.JK (Yahoo)... ✅ 3299 rows
+  📥 TAYS.JK (Yahoo)... ✅ 1041 rows
+  📥 TBIG.JK (Yahoo)... ✅ 3801 rows
+  📥 TBLA.JK (Yahoo)... ✅ 6065 rows
+  📥 TBMS.JK (Yahoo)... ✅ 6214 rows
+  📥 TCID.JK (Yahoo)... ✅ 6443 rows
+  📥 TCPI.JK (Yahoo)... ✅ 1895 rows
+  📥 TDPM.JK (Yahoo)... ✅ 1958 rows
+  📥 TEBE.JK (Yahoo)... ✅ 1540 rows
+  📥 TECH.JK (Yahoo)... ✅ 1408 rows
+  📥 TELE.JK (Yahoo)... ✅ 3499 rows
+  📥 TFAS.JK (Yahoo)... ✅ 1584 rows
+📊 Batch 43 complete: 860 success, 0 failed
+----------------------------------------
+📦 Batch 44/48 (20 tickers)
+  📥 TFCO.JK (Yahoo)... ✅ 5053 rows
+  📥 TGKA.JK (Yahoo)... ✅ 5075 rows
+  📥 TGRA.JK (Yahoo)... ✅ 2192 rows
+  📥 TGUK.JK (Yahoo)... ✅ 656 rows
+  📥 TIFA.JK (Yahoo)... ✅ 3626 rows
+  📥 TINS.JK (Yahoo)... ✅ 6229 rows
+  📥 TIRA.JK (Yahoo)... ✅ 6304 rows
+  📥 TIRT.JK (Yahoo)... ✅ 6445 rows
+  📥 TKIM.JK (Yahoo)... ✅ 6305 rows
+  📥 TLDN.JK (Yahoo)... ✅ 954 rows
+  📥 TLKM.JK (Yahoo)... ✅ 5305 rows
+  📥 TMAS.JK (Yahoo)... ✅ 5054 rows
+  📥 TMPO.JK (Yahoo)... ✅ 6275 rows
+  📥 TNCA.JK (Yahoo)... ✅ 1902 rows
+  📥 TOBA.JK (Yahoo)... ✅ 3379 rows
+  📥 TOOL.JK (Yahoo)... ✅ 879 rows
+  📥 TOPS.JK (Yahoo)... ✅ 2168 rows
+  📥 TOSK.JK (Yahoo)... ✅ 511 rows
+  📥 TOTL.JK (Yahoo)... ✅ 4843 rows
+  📥 TOTO.JK (Yahoo)... ✅ 5691 rows
+📊 Batch 44 complete: 880 success, 0 failed
+----------------------------------------
+📦 Batch 45/48 (20 tickers)
+  📥 TOWR.JK (Yahoo)... ✅ 3956 rows
+  📥 TOYS.JK (Yahoo)... ✅ 1364 rows
+  📥 TPIA.JK (Yahoo)... ✅ 5853 rows
+  📥 TPMA.JK (Yahoo)... ✅ 3228 rows
+  📥 TRAM.JK (Yahoo)... ✅ 4315 rows
+  📥 TRGU.JK (Yahoo)... ✅ 901 rows
+  📥 TRIL.JK (Yahoo)... ✅ 4467 rows
+  📥 TRIM.JK (Yahoo)... ✅ 6461 rows
+  📥 TRIN.JK (Yahoo)... ✅ 1502 rows
+  📥 TRIO.JK (Yahoo)... ✅ 4177 rows
+  📥 TRIS.JK (Yahoo)... ✅ 3384 rows
+  📥 TRJA.JK (Yahoo)... ✅ 1353 rows
+  📥 TRON.JK (Yahoo)... ✅ 730 rows
+  📥 TRST.JK (Yahoo)... ✅ 6341 rows
+  📥 TRUE.JK (Yahoo)... ✅ 1164 rows
+  📥 TRUK.JK (Yahoo)... ✅ 1926 rows
+  📥 TRUS.JK (Yahoo)... ✅ 5784 rows
+  📥 TSPC.JK (Yahoo)... ✅ 5054 rows
+  📥 TUGU.JK (Yahoo)... ✅ 1925 rows
+  📥 TYRE.JK (Yahoo)... ✅ 696 rows
+📊 Batch 45 complete: 900 success, 0 failed
+----------------------------------------
+📦 Batch 46/48 (20 tickers)
+  📥 UANG.JK (Yahoo)... ✅ 1387 rows
+  📥 UCID.JK (Yahoo)... ✅ 1516 rows
+  📥 UDNG.JK (Yahoo)... ✅ 578 rows
+  📥 UFOE.JK (Yahoo)... ✅ 1249 rows
+  📥 ULTJ.JK (Yahoo)... ✅ 5053 rows
+  📥 UNIC.JK (Yahoo)... ✅ 6347 rows
+  📥 UNIQ.JK (Yahoo)... ✅ 1225 rows
+  📥 UNIT.JK (Yahoo)... ✅ 5413 rows
+  📥 UNSP.JK (Yahoo)... ✅ 5279 rows
+  📥 UNTD.JK (Yahoo)... ✅ 511 rows
+  📥 UNTR.JK (Yahoo)... ✅ 6365 rows
+  📥 UNVR.JK (Yahoo)... ✅ 5585 rows
+  📥 URBN.JK (Yahoo)... ✅ 1784 rows
+  📥 UVCR.JK (Yahoo)... ✅ 1132 rows
+  📥 VAST.JK (Yahoo)... ✅ 750 rows
+  📥 VERN.JK (Yahoo)... ✅ 357 rows
+  📥 VICI.JK (Yahoo)... ✅ 1277 rows
+  📥 VICO.JK (Yahoo)... ✅ 3135 rows
+  📥 VINS.JK (Yahoo)... ✅ 2586 rows
+  📥 VISI.JK (Yahoo)... ✅ 500 rows
+📊 Batch 46 complete: 920 success, 0 failed
+----------------------------------------
+📦 Batch 47/48 (20 tickers)
+  📥 VIVA.JK (Yahoo)... ✅ 3537 rows
+  📥 VKTR.JK (Yahoo)... ✅ 669 rows
+  📥 VOKS.JK (Yahoo)... ✅ 5965 rows
+  📥 VRNA.JK (Yahoo)... ✅ 4370 rows
+  📥 VTNY.JK (Yahoo)... ✅ 788 rows
+  📥 WAPO.JK (Yahoo)... ✅ 6158 rows
+  📥 WBSA.JK (Yahoo)... ✅ 3 rows
+  📥 WEGE.JK (Yahoo)... ✅ 2051 rows
+  📥 WEHA.JK (Yahoo)... ✅ 4627 rows
+  📥 WGSH.JK (Yahoo)... ✅ 1041 rows
+  📥 WICO.JK (Yahoo)... ✅ 6213 rows
+  📥 WIDI.JK (Yahoo)... ✅ 657 rows
+  📥 WIFI.JK (Yahoo)... ✅ 1270 rows
+  📥 WIIM.JK (Yahoo)... ✅ 3265 rows
+  📥 WIKA.JK (Yahoo)... ✅ 4524 rows
+  📥 WINE.JK (Yahoo)... ✅ 770 rows
+  📥 WINR.JK (Yahoo)... ✅ 946 rows
+  📥 WINS.JK (Yahoo)... ✅ 3778 rows
+  📥 WIRG.JK (Yahoo)... ✅ 960 rows
+  📥 WMPP.JK (Yahoo)... ✅ 1041 rows
+📊 Batch 47 complete: 940 success, 0 failed
+----------------------------------------
+📦 Batch 48/48 (17 tickers)
+  📥 WMUU.JK (Yahoo)... ✅ 1248 rows
+  📥 WOMF.JK (Yahoo)... ✅ 5252 rows
+  📥 WOOD.JK (Yahoo)... ✅ 2166 rows
+  📥 WOWS.JK (Yahoo)... ✅ 1546 rows
+  📥 WSBP.JK (Yahoo)... ✅ 2354 rows
+  📥 WSKT.JK (Yahoo)... ✅ 3268 rows
+  📥 WTON.JK (Yahoo)... ✅ 2945 rows
+  📥 YELO.JK (Yahoo)... ✅ 1815 rows
+  📥 YOII.JK (Yahoo)... ✅ 296 rows
+  📥 YPAS.JK (Yahoo)... ✅ 4441 rows
+  📥 YULE.JK (Yahoo)... ✅ 5252 rows
+  📥 YUPI.JK (Yahoo)... ✅ 245 rows
+  📥 ZATA.JK (Yahoo)... ✅ 813 rows
+  📥 ZBRA.JK (Yahoo)... ✅ 5053 rows
+  📥 ZINC.JK (Yahoo)... ✅ 2083 rows
+  📥 ZONE.JK (Yahoo)... ✅ 1781 rows
+  📥 ZYRX.JK (Yahoo)... ✅ 1210 rows
+📊 Batch 48 complete: 957 success, 0 failed
+----------------------------------------
+============================================================
+🎉 Yahoo Finance download complete!
+✅ Successful: 957
+❌ Failed: 0
+📊 Success rate: 100.0%
+
+✅ Price data collection complete:
+   • Successful: 957
+   • Failed: 0
+   • Success rate: 100.0%
+
+📊 COLLECTING FUNDAMENTAL DATA (Stockbit)
+====================================================================================================
+🚀 Starting Stockbit fundamental data download (batch size: 10)
+============================================================
+📦 Batch 1/96 (10 tickers)
+  📊 AADI.JK (Stockbit fundamentals)... ✅
+  📊 AALI.JK (Stockbit fundamentals)... ✅
+  📊 ABBA.JK (Stockbit fundamentals)... ✅
+  📊 ABDA.JK (Stockbit fundamentals)... ✅
+  📊 ABMM.JK (Stockbit fundamentals)... ✅
+  📊 ACES.JK (Stockbit fundamentals)... ✅
+  📊 ACRO.JK (Stockbit fundamentals)... ✅
+  📊 ACST.JK (Stockbit fundamentals)... ✅
+  📊 ADCP.JK (Stockbit fundamentals)... ✅
+  📊 ADES.JK (Stockbit fundamentals)... ✅
+📊 Batch 1 complete: 10 success, 0 failed
+----------------------------------------
+📦 Batch 2/96 (10 tickers)
+  📊 ADHI.JK (Stockbit fundamentals)... ✅
+  📊 ADMF.JK (Stockbit fundamentals)... ✅
+  📊 ADMG.JK (Stockbit fundamentals)... ✅
+  📊 ADMR.JK (Stockbit fundamentals)... ✅
+  📊 ADRO.JK (Stockbit fundamentals)... ✅
+  📊 AEGS.JK (Stockbit fundamentals)... ✅
+  📊 AGAR.JK (Stockbit fundamentals)... ✅
+  📊 AGII.JK (Stockbit fundamentals)... ✅
+  📊 AGRO.JK (Stockbit fundamentals)... ✅
+  📊 AGRS.JK (Stockbit fundamentals)... ✅
+📊 Batch 2 complete: 20 success, 0 failed
+----------------------------------------
+📦 Batch 3/96 (10 tickers)
+  📊 AHAP.JK (Stockbit fundamentals)... ✅
+  📊 AIMS.JK (Stockbit fundamentals)... ✅
+  📊 AISA.JK (Stockbit fundamentals)... ✅
+  📊 AKKU.JK (Stockbit fundamentals)... ✅
+  📊 AKPI.JK (Stockbit fundamentals)... ✅
+  📊 AKRA.JK (Stockbit fundamentals)... ✅
+  📊 AKSI.JK (Stockbit fundamentals)... ✅
+  📊 ALDO.JK (Stockbit fundamentals)... ✅
+  📊 ALII.JK (Stockbit fundamentals)... ✅
+  📊 ALKA.JK (Stockbit fundamentals)... ✅
+📊 Batch 3 complete: 30 success, 0 failed
+----------------------------------------
+📦 Batch 4/96 (10 tickers)
+  📊 ALMI.JK (Stockbit fundamentals)... ✅
+  📊 ALTO.JK (Stockbit fundamentals)... ✅
+  📊 AMAG.JK (Stockbit fundamentals)... ✅
+  📊 AMAN.JK (Stockbit fundamentals)... ✅
+  📊 AMAR.JK (Stockbit fundamentals)... ✅
+  📊 AMFG.JK (Stockbit fundamentals)... ✅
+  📊 AMIN.JK (Stockbit fundamentals)... ✅
+  📊 AMMN.JK (Stockbit fundamentals)... ✅
+  📊 AMMS.JK (Stockbit fundamentals)... ✅
+  📊 AMOR.JK (Stockbit fundamentals)... ✅
+📊 Batch 4 complete: 40 success, 0 failed
+----------------------------------------
+📦 Batch 5/96 (10 tickers)
+  📊 AMRT.JK (Stockbit fundamentals)... ✅
+  📊 ANDI.JK (Stockbit fundamentals)... ✅
+  📊 ANJT.JK (Stockbit fundamentals)... ✅
+  📊 ANTM.JK (Stockbit fundamentals)... ✅
+  📊 APEX.JK (Stockbit fundamentals)... ✅
+  📊 APIC.JK (Stockbit fundamentals)... ✅
+  📊 APII.JK (Stockbit fundamentals)... ✅
+  📊 APLI.JK (Stockbit fundamentals)... ✅
+  📊 APLN.JK (Stockbit fundamentals)... ✅
+  📊 ARCI.JK (Stockbit fundamentals)... ✅
+📊 Batch 5 complete: 50 success, 0 failed
+----------------------------------------
+📦 Batch 6/96 (10 tickers)
+  📊 AREA.JK (Stockbit fundamentals)... ✅
+  📊 ARGO.JK (Stockbit fundamentals)... ✅
+  📊 ARII.JK (Stockbit fundamentals)... ✅
+  📊 ARKA.JK (Stockbit fundamentals)... ✅
+  📊 ARKO.JK (Stockbit fundamentals)... ✅
+  📊 ARMY.JK (Stockbit fundamentals)... ✅
+  📊 ARNA.JK (Stockbit fundamentals)... ✅
+  📊 ARTA.JK (Stockbit fundamentals)... ✅
+  📊 ARTI.JK (Stockbit fundamentals)... ✅
+  📊 ARTO.JK (Stockbit fundamentals)... ✅
+📊 Batch 6 complete: 60 success, 0 failed
+----------------------------------------
+📦 Batch 7/96 (10 tickers)
+  📊 ASBI.JK (Stockbit fundamentals)... ✅
+  📊 ASDM.JK (Stockbit fundamentals)... ✅
+  📊 ASGR.JK (Stockbit fundamentals)... ✅
+  📊 ASHA.JK (Stockbit fundamentals)... ✅
+  📊 ASII.JK (Stockbit fundamentals)... ✅
+  📊 ASJT.JK (Stockbit fundamentals)... ✅
+  📊 ASLC.JK (Stockbit fundamentals)... ✅
+  📊 ASLI.JK (Stockbit fundamentals)... ✅
+  📊 ASMI.JK (Stockbit fundamentals)... ✅
+  📊 ASPI.JK (Stockbit fundamentals)... ✅
+📊 Batch 7 complete: 70 success, 0 failed
+----------------------------------------
+📦 Batch 8/96 (10 tickers)
+  📊 ASPR.JK (Stockbit fundamentals)... ✅
+  📊 ASRI.JK (Stockbit fundamentals)... ✅
+  📊 ASRM.JK (Stockbit fundamentals)... ✅
+  📊 ASSA.JK (Stockbit fundamentals)... ✅
+  📊 ATAP.JK (Stockbit fundamentals)... ✅
+  📊 ATIC.JK (Stockbit fundamentals)... ✅
+  📊 ATLA.JK (Stockbit fundamentals)... ✅
+  📊 AUTO.JK (Stockbit fundamentals)... ✅
+  📊 AVIA.JK (Stockbit fundamentals)... ✅
+  📊 AWAN.JK (Stockbit fundamentals)... ✅
+📊 Batch 8 complete: 80 success, 0 failed
+----------------------------------------
+📦 Batch 9/96 (10 tickers)
+  📊 AXIO.JK (Stockbit fundamentals)... ✅
+  📊 AYAM.JK (Stockbit fundamentals)... ✅
+  📊 AYLS.JK (Stockbit fundamentals)... ✅
+  📊 BABP.JK (Stockbit fundamentals)... ✅
+  📊 BABY.JK (Stockbit fundamentals)... ✅
+  📊 BACA.JK (Stockbit fundamentals)... ✅
+  📊 BAIK.JK (Stockbit fundamentals)... ✅
+  📊 BAJA.JK (Stockbit fundamentals)... ✅
+  📊 BALI.JK (Stockbit fundamentals)... ✅
+  📊 BANK.JK (Stockbit fundamentals)... ✅
+📊 Batch 9 complete: 90 success, 0 failed
+----------------------------------------
+📦 Batch 10/96 (10 tickers)
+  📊 BAPA.JK (Stockbit fundamentals)... ✅
+  📊 BAPI.JK (Stockbit fundamentals)... ✅
+  📊 BATA.JK (Stockbit fundamentals)... ✅
+  📊 BATR.JK (Stockbit fundamentals)... ✅
+  📊 BAUT.JK (Stockbit fundamentals)... ✅
+  📊 BAYU.JK (Stockbit fundamentals)... ✅
+  📊 BBCA.JK (Stockbit fundamentals)... ✅
+  📊 BBHI.JK (Stockbit fundamentals)... ✅
+  📊 BBKP.JK (Stockbit fundamentals)... ✅
+  📊 BBLD.JK (Stockbit fundamentals)... ✅
+📊 Batch 10 complete: 100 success, 0 failed
+----------------------------------------
+📦 Batch 11/96 (10 tickers)
+  📊 BBMD.JK (Stockbit fundamentals)... ✅
+  📊 BBNI.JK (Stockbit fundamentals)... ✅
+  📊 BBRI.JK (Stockbit fundamentals)... ✅
+  📊 BBRM.JK (Stockbit fundamentals)... ✅
+  📊 BBSI.JK (Stockbit fundamentals)... ✅
+  📊 BBSS.JK (Stockbit fundamentals)... ✅
+  📊 BBTN.JK (Stockbit fundamentals)... ✅
+  📊 BBYB.JK (Stockbit fundamentals)... ✅
+  📊 BCAP.JK (Stockbit fundamentals)... ✅
+  📊 BCIC.JK (Stockbit fundamentals)... ✅
+📊 Batch 11 complete: 110 success, 0 failed
+----------------------------------------
+📦 Batch 12/96 (10 tickers)
+  📊 BCIP.JK (Stockbit fundamentals)... ✅
+  📊 BDKR.JK (Stockbit fundamentals)... ✅
+  📊 BDMN.JK (Stockbit fundamentals)... ✅
+  📊 BEBS.JK (Stockbit fundamentals)... ✅
+  📊 BEEF.JK (Stockbit fundamentals)... ✅
+  📊 BEER.JK (Stockbit fundamentals)... ✅
+  📊 BEKS.JK (Stockbit fundamentals)... ✅
+  📊 BELI.JK (Stockbit fundamentals)... ✅
+  📊 BELL.JK (Stockbit fundamentals)... ✅
+  📊 BESS.JK (Stockbit fundamentals)... ✅
+📊 Batch 12 complete: 120 success, 0 failed
+----------------------------------------
+📦 Batch 13/96 (10 tickers)
+  📊 BEST.JK (Stockbit fundamentals)... ✅
+  📊 BFIN.JK (Stockbit fundamentals)... ✅
+  📊 BGTG.JK (Stockbit fundamentals)... ✅
+  📊 BHAT.JK (Stockbit fundamentals)... ✅
+  📊 BHIT.JK (Stockbit fundamentals)... ✅
+  📊 BIKA.JK (Stockbit fundamentals)... ✅
+  📊 BIKE.JK (Stockbit fundamentals)... ✅
+  📊 BIMA.JK (Stockbit fundamentals)... ✅
+  📊 BINA.JK (Stockbit fundamentals)... ✅
+  📊 BINO.JK (Stockbit fundamentals)... ✅
+📊 Batch 13 complete: 130 success, 0 failed
+----------------------------------------
+📦 Batch 14/96 (10 tickers)
+  📊 BIPI.JK (Stockbit fundamentals)... ✅
+  📊 BIPP.JK (Stockbit fundamentals)... ✅
+  📊 BIRD.JK (Stockbit fundamentals)... ✅
+  📊 BISI.JK (Stockbit fundamentals)... ✅
+  📊 BJBR.JK (Stockbit fundamentals)... ✅
+  📊 BJTM.JK (Stockbit fundamentals)... ✅
+  📊 BKDP.JK (Stockbit fundamentals)... ✅
+  📊 BKSL.JK (Stockbit fundamentals)... ✅
+  📊 BKSW.JK (Stockbit fundamentals)... ✅
+  📊 BLES.JK (Stockbit fundamentals)... ✅
+📊 Batch 14 complete: 140 success, 0 failed
+----------------------------------------
+📦 Batch 15/96 (10 tickers)
+  📊 BLOG.JK (Stockbit fundamentals)... ✅
+  📊 BLTA.JK (Stockbit fundamentals)... ✅
+  📊 BLTZ.JK (Stockbit fundamentals)... ✅
+  📊 BLUE.JK (Stockbit fundamentals)... ✅
+  📊 BMAS.JK (Stockbit fundamentals)... ✅
+  📊 BMBL.JK (Stockbit fundamentals)... ✅
+  📊 BMHS.JK (Stockbit fundamentals)... ✅
+  📊 BMRI.JK (Stockbit fundamentals)... ✅
+  📊 BMSR.JK (Stockbit fundamentals)... ✅
+  📊 BMTR.JK (Stockbit fundamentals)... ✅
+📊 Batch 15 complete: 150 success, 0 failed
+----------------------------------------
+📦 Batch 16/96 (10 tickers)
+  📊 BNBA.JK (Stockbit fundamentals)... ✅
+  📊 BNBR.JK (Stockbit fundamentals)... ✅
+  📊 BNGA.JK (Stockbit fundamentals)... ✅
+  📊 BNII.JK (Stockbit fundamentals)... ✅
+  📊 BNLI.JK (Stockbit fundamentals)... ✅
+  📊 BOAT.JK (Stockbit fundamentals)... ✅
+  📊 BOBA.JK (Stockbit fundamentals)... ✅
+  📊 BOGA.JK (Stockbit fundamentals)... ✅
+  📊 BOLA.JK (Stockbit fundamentals)... ✅
+  📊 BOLT.JK (Stockbit fundamentals)... ✅
+📊 Batch 16 complete: 160 success, 0 failed
+----------------------------------------
+📦 Batch 17/96 (10 tickers)
+  📊 BOSS.JK (Stockbit fundamentals)... ✅
+  📊 BPFI.JK (Stockbit fundamentals)... ✅
+  📊 BPII.JK (Stockbit fundamentals)... ✅
+  📊 BPTR.JK (Stockbit fundamentals)... ✅
+  📊 BRAM.JK (Stockbit fundamentals)... ✅
+  📊 BREN.JK (Stockbit fundamentals)... ✅
+  📊 BRIS.JK (Stockbit fundamentals)... ✅
+  📊 BRMS.JK (Stockbit fundamentals)... ✅
+  📊 BRNA.JK (Stockbit fundamentals)... ✅
+  📊 BRPT.JK (Stockbit fundamentals)... ✅
+📊 Batch 17 complete: 170 success, 0 failed
+----------------------------------------
+📦 Batch 18/96 (10 tickers)
+  📊 BRRC.JK (Stockbit fundamentals)... ✅
+  📊 BSBK.JK (Stockbit fundamentals)... ✅
+  📊 BSDE.JK (Stockbit fundamentals)... ✅
+  📊 BSIM.JK (Stockbit fundamentals)... ✅
+  📊 BSML.JK (Stockbit fundamentals)... ✅
+  📊 BSSR.JK (Stockbit fundamentals)... ✅
+  📊 BSWD.JK (Stockbit fundamentals)... ✅
+  📊 BTEK.JK (Stockbit fundamentals)... ✅
+  📊 BTEL.JK (Stockbit fundamentals)... ✅
+  📊 BTON.JK (Stockbit fundamentals)... ✅
+📊 Batch 18 complete: 180 success, 0 failed
+----------------------------------------
+📦 Batch 19/96 (10 tickers)
+  📊 BTPN.JK (Stockbit fundamentals)... ✅
+  📊 BTPS.JK (Stockbit fundamentals)... ✅
+  📊 BUAH.JK (Stockbit fundamentals)... ✅
+  📊 BUDI.JK (Stockbit fundamentals)... ✅
+  📊 BUKA.JK (Stockbit fundamentals)... ✅
+  📊 BUKK.JK (Stockbit fundamentals)... ✅
+  📊 BULL.JK (Stockbit fundamentals)... ✅
+  📊 BUMI.JK (Stockbit fundamentals)... ✅
+  📊 BUVA.JK (Stockbit fundamentals)... ✅
+  📊 BVIC.JK (Stockbit fundamentals)... ✅
+📊 Batch 19 complete: 190 success, 0 failed
+----------------------------------------
+📦 Batch 20/96 (10 tickers)
+  📊 BWPT.JK (Stockbit fundamentals)... ✅
+  📊 BYAN.JK (Stockbit fundamentals)... ✅
+  📊 CAKK.JK (Stockbit fundamentals)... ✅
+  📊 CAMP.JK (Stockbit fundamentals)... ✅
+  📊 CANI.JK (Stockbit fundamentals)... ✅
+  📊 CARE.JK (Stockbit fundamentals)... ✅
+  📊 CARS.JK (Stockbit fundamentals)... ✅
+  📊 CASA.JK (Stockbit fundamentals)... ✅
+  📊 CASH.JK (Stockbit fundamentals)... ✅
+  📊 CASS.JK (Stockbit fundamentals)... ✅
+📊 Batch 20 complete: 200 success, 0 failed
+----------------------------------------
+📦 Batch 21/96 (10 tickers)
+  📊 CBDK.JK (Stockbit fundamentals)... ✅
+  📊 CBMF.JK (Stockbit fundamentals)... ✅
+  📊 CBPE.JK (Stockbit fundamentals)... ✅
+  📊 CBRE.JK (Stockbit fundamentals)... ✅
+  📊 CBUT.JK (Stockbit fundamentals)... ✅
+  📊 CCSI.JK (Stockbit fundamentals)... ✅
+  📊 CDIA.JK (Stockbit fundamentals)... ✅
+  📊 CEKA.JK (Stockbit fundamentals)... ✅
+  📊 CENT.JK (Stockbit fundamentals)... ✅
+  📊 CFIN.JK (Stockbit fundamentals)... ✅
+📊 Batch 21 complete: 210 success, 0 failed
+----------------------------------------
+📦 Batch 22/96 (10 tickers)
+  📊 CGAS.JK (Stockbit fundamentals)... ✅
+  📊 CHEK.JK (Stockbit fundamentals)... ✅
+  📊 CHEM.JK (Stockbit fundamentals)... ✅
+  📊 CHIP.JK (Stockbit fundamentals)... ✅
+  📊 CINT.JK (Stockbit fundamentals)... ✅
+  📊 CITA.JK (Stockbit fundamentals)... ✅
+  📊 CITY.JK (Stockbit fundamentals)... ✅
+  📊 CLAY.JK (Stockbit fundamentals)... ✅
+  📊 CLEO.JK (Stockbit fundamentals)... ✅
+  📊 CLPI.JK (Stockbit fundamentals)... ✅
+📊 Batch 22 complete: 220 success, 0 failed
+----------------------------------------
+📦 Batch 23/96 (10 tickers)
+  📊 CMNP.JK (Stockbit fundamentals)... ✅
+  📊 CMNT.JK (Stockbit fundamentals)... ✅
+  📊 CMPP.JK (Stockbit fundamentals)... ✅
+  📊 CMRY.JK (Stockbit fundamentals)... ✅
+  📊 CNKO.JK (Stockbit fundamentals)... ✅
+  📊 CNMA.JK (Stockbit fundamentals)... ✅
+  📊 CNTX.JK (Stockbit fundamentals)... ✅
+  📊 COAL.JK (Stockbit fundamentals)... ✅
+  📊 COCO.JK (Stockbit fundamentals)... ✅
+  📊 COIN.JK (Stockbit fundamentals)... ✅
+📊 Batch 23 complete: 230 success, 0 failed
+----------------------------------------
+📦 Batch 24/96 (10 tickers)
+  📊 COWL.JK (Stockbit fundamentals)... ✅
+  📊 CPIN.JK (Stockbit fundamentals)... ✅
+  📊 CPRI.JK (Stockbit fundamentals)... ✅
+  📊 CPRO.JK (Stockbit fundamentals)... ✅
+  📊 CRAB.JK (Stockbit fundamentals)... ✅
+  📊 CRSN.JK (Stockbit fundamentals)... ✅
+  📊 CSAP.JK (Stockbit fundamentals)... ✅
+  📊 CSIS.JK (Stockbit fundamentals)... ✅
+  📊 CSMI.JK (Stockbit fundamentals)... ✅
+  📊 CSRA.JK (Stockbit fundamentals)... ✅
+📊 Batch 24 complete: 240 success, 0 failed
+----------------------------------------
+📦 Batch 25/96 (10 tickers)
+  📊 CTBN.JK (Stockbit fundamentals)... ✅
+  📊 CTRA.JK (Stockbit fundamentals)... ✅
+  📊 CTTH.JK (Stockbit fundamentals)... ✅
+  📊 CUAN.JK (Stockbit fundamentals)... ✅
+  📊 CYBR.JK (Stockbit fundamentals)... ✅
+  📊 DAAZ.JK (Stockbit fundamentals)... ✅
+  📊 DADA.JK (Stockbit fundamentals)... ✅
+  📊 DART.JK (Stockbit fundamentals)... ✅
+  📊 DATA.JK (Stockbit fundamentals)... ✅
+  📊 DAYA.JK (Stockbit fundamentals)... ✅
+📊 Batch 25 complete: 250 success, 0 failed
+----------------------------------------
+📦 Batch 26/96 (10 tickers)
+  📊 DCII.JK (Stockbit fundamentals)... ✅
+  📊 DEAL.JK (Stockbit fundamentals)... ✅
+  📊 DEFI.JK (Stockbit fundamentals)... ✅
+  📊 DEPO.JK (Stockbit fundamentals)... ✅
+  📊 DEWA.JK (Stockbit fundamentals)... ✅
+  📊 DEWI.JK (Stockbit fundamentals)... ✅
+  📊 DFAM.JK (Stockbit fundamentals)... ✅
+  📊 DGIK.JK (Stockbit fundamentals)... ✅
+  📊 DGNS.JK (Stockbit fundamentals)... ✅
+  📊 DGWG.JK (Stockbit fundamentals)... ✅
+📊 Batch 26 complete: 260 success, 0 failed
+----------------------------------------
+📦 Batch 27/96 (10 tickers)
+  📊 DIGI.JK (Stockbit fundamentals)... ✅
+  📊 DILD.JK (Stockbit fundamentals)... ✅
+  📊 DIVA.JK (Stockbit fundamentals)... ✅
+  📊 DKFT.JK (Stockbit fundamentals)... ✅
+  📊 DKHH.JK (Stockbit fundamentals)... ✅
+  📊 DLTA.JK (Stockbit fundamentals)... ✅
+  📊 DMAS.JK (Stockbit fundamentals)... ✅
+  📊 DMMX.JK (Stockbit fundamentals)... ✅
+  📊 DMND.JK (Stockbit fundamentals)... ✅
+  📊 DNAR.JK (Stockbit fundamentals)... ✅
+📊 Batch 27 complete: 270 success, 0 failed
+----------------------------------------
+📦 Batch 28/96 (10 tickers)
+  📊 DNET.JK (Stockbit fundamentals)... ✅
+  📊 DOID.JK (Stockbit fundamentals)... ✅
+  📊 DOOH.JK (Stockbit fundamentals)... ✅
+  📊 DOSS.JK (Stockbit fundamentals)... ✅
+  📊 DPNS.JK (Stockbit fundamentals)... ✅
+  📊 DPUM.JK (Stockbit fundamentals)... ✅
+  📊 DRMA.JK (Stockbit fundamentals)... ✅
+  📊 DSFI.JK (Stockbit fundamentals)... ✅
+  📊 DSNG.JK (Stockbit fundamentals)... ✅
+  📊 DSSA.JK (Stockbit fundamentals)... ✅
+📊 Batch 28 complete: 280 success, 0 failed
+----------------------------------------
+📦 Batch 29/96 (10 tickers)
+  📊 DUCK.JK (Stockbit fundamentals)... ✅
+  📊 DUTI.JK (Stockbit fundamentals)... ✅
+  📊 DVLA.JK (Stockbit fundamentals)... ✅
+  📊 DWGL.JK (Stockbit fundamentals)... ✅
+  📊 DYAN.JK (Stockbit fundamentals)... ✅
+  📊 EAST.JK (Stockbit fundamentals)... ✅
+  📊 ECII.JK (Stockbit fundamentals)... ✅
+  📊 EDGE.JK (Stockbit fundamentals)... ✅
+  📊 EKAD.JK (Stockbit fundamentals)... ✅
+  📊 ELIT.JK (Stockbit fundamentals)... ✅
+📊 Batch 29 complete: 290 success, 0 failed
+----------------------------------------
+📦 Batch 30/96 (10 tickers)
+  📊 ELPI.JK (Stockbit fundamentals)... ✅
+  📊 ELSA.JK (Stockbit fundamentals)... ✅
+  📊 ELTY.JK (Stockbit fundamentals)... ✅
+  📊 EMAS.JK (Stockbit fundamentals)... ✅
+  📊 EMDE.JK (Stockbit fundamentals)... ✅
+  📊 EMTK.JK (Stockbit fundamentals)... ✅
+  📊 ENAK.JK (Stockbit fundamentals)... ✅
+  📊 ENRG.JK (Stockbit fundamentals)... ✅
+  📊 ENVY.JK (Stockbit fundamentals)... ✅
+  📊 ENZO.JK (Stockbit fundamentals)... ✅
+📊 Batch 30 complete: 300 success, 0 failed
+----------------------------------------
+📦 Batch 31/96 (10 tickers)
+  📊 EPAC.JK (Stockbit fundamentals)... ✅
+  📊 EPMT.JK (Stockbit fundamentals)... ✅
+  📊 ERAA.JK (Stockbit fundamentals)... ✅
+  📊 ERAL.JK (Stockbit fundamentals)... ✅
+  📊 ERTX.JK (Stockbit fundamentals)... ✅
+  📊 ESIP.JK (Stockbit fundamentals)... ✅
+  📊 ESSA.JK (Stockbit fundamentals)... ✅
+  📊 ESTA.JK (Stockbit fundamentals)... ✅
+  📊 ESTI.JK (Stockbit fundamentals)... ✅
+  📊 ETWA.JK (Stockbit fundamentals)... ✅
+📊 Batch 31 complete: 310 success, 0 failed
+----------------------------------------
+📦 Batch 32/96 (10 tickers)
+  📊 EURO.JK (Stockbit fundamentals)... ✅
+  📊 EXCL.JK (Stockbit fundamentals)... ✅
+  📊 FAPA.JK (Stockbit fundamentals)... ✅
+  📊 FAST.JK (Stockbit fundamentals)... ✅
+  📊 FASW.JK (Stockbit fundamentals)... ✅
+  📊 FILM.JK (Stockbit fundamentals)... ✅
+  📊 FIMP.JK (Stockbit fundamentals)... ✅
+  📊 FIRE.JK (Stockbit fundamentals)... ✅
+  📊 FISH.JK (Stockbit fundamentals)... ✅
+  📊 FITT.JK (Stockbit fundamentals)... ✅
+📊 Batch 32 complete: 320 success, 0 failed
+----------------------------------------
+📦 Batch 33/96 (10 tickers)
+  📊 FLMC.JK (Stockbit fundamentals)... ✅
+  📊 FMII.JK (Stockbit fundamentals)... ✅
+  📊 FOLK.JK (Stockbit fundamentals)... ✅
+  📊 FOOD.JK (Stockbit fundamentals)... ✅
+  📊 FORE.JK (Stockbit fundamentals)... ✅
+  📊 FORU.JK (Stockbit fundamentals)... ✅
+  📊 FPNI.JK (Stockbit fundamentals)... ✅
+  📊 FUJI.JK (Stockbit fundamentals)... ✅
+  📊 FUTR.JK (Stockbit fundamentals)... ✅
+  📊 FWCT.JK (Stockbit fundamentals)... ✅
+📊 Batch 33 complete: 330 success, 0 failed
+----------------------------------------
+📦 Batch 34/96 (10 tickers)
+  📊 GAMA.JK (Stockbit fundamentals)... ✅
+  📊 GDST.JK (Stockbit fundamentals)... ✅
+  📊 GDYR.JK (Stockbit fundamentals)... ✅
+  📊 GEMA.JK (Stockbit fundamentals)... ✅
+  📊 GEMS.JK (Stockbit fundamentals)... ✅
+  📊 GGRM.JK (Stockbit fundamentals)... ✅
+  📊 GGRP.JK (Stockbit fundamentals)... ✅
+  📊 GHON.JK (Stockbit fundamentals)... ✅
+  📊 GIAA.JK (Stockbit fundamentals)... ✅
+  📊 GJTL.JK (Stockbit fundamentals)... ✅
+📊 Batch 34 complete: 340 success, 0 failed
+----------------------------------------
+📦 Batch 35/96 (10 tickers)
+  📊 GLOB.JK (Stockbit fundamentals)... ✅
+  📊 GLVA.JK (Stockbit fundamentals)... ✅
+  📊 GMFI.JK (Stockbit fundamentals)... ✅
+  📊 GMTD.JK (Stockbit fundamentals)... ✅
+  📊 GOLD.JK (Stockbit fundamentals)... ✅
+  📊 GOLF.JK (Stockbit fundamentals)... ✅
+  📊 GOLL.JK (Stockbit fundamentals)... ✅
+  📊 GOOD.JK (Stockbit fundamentals)... ✅
+  📊 GOTO.JK (Stockbit fundamentals)... ✅
+  📊 GPRA.JK (Stockbit fundamentals)... ✅
+📊 Batch 35 complete: 350 success, 0 failed
+----------------------------------------
+📦 Batch 36/96 (10 tickers)
+  📊 GPSO.JK (Stockbit fundamentals)... ✅
+  📊 GRIA.JK (Stockbit fundamentals)... ✅
+  📊 GRPH.JK (Stockbit fundamentals)... ✅
+  📊 GRPM.JK (Stockbit fundamentals)... ✅
+  📊 GSMF.JK (Stockbit fundamentals)... ✅
+  📊 GTBO.JK (Stockbit fundamentals)... ✅
+  📊 GTRA.JK (Stockbit fundamentals)... ✅
+  📊 GTSI.JK (Stockbit fundamentals)... ✅
+  📊 GULA.JK (Stockbit fundamentals)... ✅
+  📊 GUNA.JK (Stockbit fundamentals)... ✅
+📊 Batch 36 complete: 360 success, 0 failed
+----------------------------------------
+📦 Batch 37/96 (10 tickers)
+  📊 GWSA.JK (Stockbit fundamentals)... ✅
+  📊 GZCO.JK (Stockbit fundamentals)... ✅
+  📊 HADE.JK (Stockbit fundamentals)... ✅
+  📊 HAIS.JK (Stockbit fundamentals)... ✅
+  📊 HAJJ.JK (Stockbit fundamentals)... ✅
+  📊 HALO.JK (Stockbit fundamentals)... ✅
+  📊 HATM.JK (Stockbit fundamentals)... ✅
+  📊 HBAT.JK (Stockbit fundamentals)... ✅
+  📊 HDFA.JK (Stockbit fundamentals)... ✅
+  📊 HDIT.JK (Stockbit fundamentals)... ✅
+📊 Batch 37 complete: 370 success, 0 failed
+----------------------------------------
+📦 Batch 38/96 (10 tickers)
+  📊 HEAL.JK (Stockbit fundamentals)... ✅
+  📊 HELI.JK (Stockbit fundamentals)... ✅
+  📊 HERO.JK (Stockbit fundamentals)... ✅
+  📊 HEXA.JK (Stockbit fundamentals)... ✅
+  📊 HGII.JK (Stockbit fundamentals)... ✅
+  📊 HILL.JK (Stockbit fundamentals)... ✅
+  📊 HITS.JK (Stockbit fundamentals)... ✅
+  📊 HKMU.JK (Stockbit fundamentals)... ✅
+  📊 HMSP.JK (Stockbit fundamentals)... ✅
+  📊 HOKI.JK (Stockbit fundamentals)... ✅
+📊 Batch 38 complete: 380 success, 0 failed
+----------------------------------------
+📦 Batch 39/96 (10 tickers)
+  📊 HOME.JK (Stockbit fundamentals)... ✅
+  📊 HOMI.JK (Stockbit fundamentals)... ✅
+  📊 HOPE.JK (Stockbit fundamentals)... ✅
+  📊 HOTL.JK (Stockbit fundamentals)... ✅
+  📊 HRME.JK (Stockbit fundamentals)... ✅
+  📊 HRTA.JK (Stockbit fundamentals)... ✅
+  📊 HRUM.JK (Stockbit fundamentals)... ✅
+  📊 HUMI.JK (Stockbit fundamentals)... ✅
+  📊 HYGN.JK (Stockbit fundamentals)... ✅
+  📊 IATA.JK (Stockbit fundamentals)... ✅
+📊 Batch 39 complete: 390 success, 0 failed
+----------------------------------------
+📦 Batch 40/96 (10 tickers)
+  📊 IBFN.JK (Stockbit fundamentals)... ✅
+  📊 IBOS.JK (Stockbit fundamentals)... ✅
+  📊 IBST.JK (Stockbit fundamentals)... ✅
+  📊 ICBP.JK (Stockbit fundamentals)... ✅
+  📊 ICON.JK (Stockbit fundamentals)... ✅
+  📊 IDEA.JK (Stockbit fundamentals)... ✅
+  📊 IDPR.JK (Stockbit fundamentals)... ✅
+  📊 IFII.JK (Stockbit fundamentals)... ✅
+  📊 IFSH.JK (Stockbit fundamentals)... ✅
+  📊 IGAR.JK (Stockbit fundamentals)... ✅
+📊 Batch 40 complete: 400 success, 0 failed
+----------------------------------------
+📦 Batch 41/96 (10 tickers)
+  📊 IIKP.JK (Stockbit fundamentals)... ✅
+  📊 IKAI.JK (Stockbit fundamentals)... ✅
+  📊 IKAN.JK (Stockbit fundamentals)... ✅
+  📊 IKBI.JK (Stockbit fundamentals)... ✅
+  📊 IKPM.JK (Stockbit fundamentals)... ✅
+  📊 IMAS.JK (Stockbit fundamentals)... ✅
+  📊 IMJS.JK (Stockbit fundamentals)... ✅
+  📊 IMPC.JK (Stockbit fundamentals)... ✅
+  📊 INAF.JK (Stockbit fundamentals)... ✅
+  📊 INAI.JK (Stockbit fundamentals)... ✅
+📊 Batch 41 complete: 410 success, 0 failed
+----------------------------------------
+📦 Batch 42/96 (10 tickers)
+  📊 INCF.JK (Stockbit fundamentals)... ✅
+  📊 INCI.JK (Stockbit fundamentals)... ✅
+  📊 INCO.JK (Stockbit fundamentals)... ✅
+  📊 INDF.JK (Stockbit fundamentals)... ✅
+  📊 INDO.JK (Stockbit fundamentals)... ✅
+  📊 INDR.JK (Stockbit fundamentals)... ✅
+  📊 INDS.JK (Stockbit fundamentals)... ✅
+  📊 INDX.JK (Stockbit fundamentals)... ✅
+  📊 INDY.JK (Stockbit fundamentals)... ✅
+  📊 INET.JK (Stockbit fundamentals)... ✅
+📊 Batch 42 complete: 420 success, 0 failed
+----------------------------------------
+📦 Batch 43/96 (10 tickers)
+  📊 INKP.JK (Stockbit fundamentals)... ✅
+  📊 INOV.JK (Stockbit fundamentals)... ✅
+  📊 INPC.JK (Stockbit fundamentals)... ✅
+  📊 INPP.JK (Stockbit fundamentals)... ✅
+  📊 INPS.JK (Stockbit fundamentals)... ✅
+  📊 INRU.JK (Stockbit fundamentals)... ✅
+  📊 INTA.JK (Stockbit fundamentals)... ✅
+  📊 INTD.JK (Stockbit fundamentals)... ✅
+  📊 INTP.JK (Stockbit fundamentals)... ✅
+  📊 IOTF.JK (Stockbit fundamentals)... ✅
+📊 Batch 43 complete: 430 success, 0 failed
+----------------------------------------
+📦 Batch 44/96 (10 tickers)
+  📊 IPAC.JK (Stockbit fundamentals)... ✅
+  📊 IPCC.JK (Stockbit fundamentals)... ✅
+  📊 IPCM.JK (Stockbit fundamentals)... ✅
+  📊 IPOL.JK (Stockbit fundamentals)... ✅
+  📊 IPPE.JK (Stockbit fundamentals)... ✅
+  📊 IPTV.JK (Stockbit fundamentals)... ✅
+  📊 IRRA.JK (Stockbit fundamentals)... ✅
+  📊 IRSX.JK (Stockbit fundamentals)... ✅
+  📊 ISAP.JK (Stockbit fundamentals)... ✅
+  📊 ISAT.JK (Stockbit fundamentals)... ✅
+📊 Batch 44 complete: 440 success, 0 failed
+----------------------------------------
+📦 Batch 45/96 (10 tickers)
+  📊 ISEA.JK (Stockbit fundamentals)... ✅
+  📊 ISSP.JK (Stockbit fundamentals)... ✅
+  📊 ITIC.JK (Stockbit fundamentals)... ✅
+  📊 ITMA.JK (Stockbit fundamentals)... ✅
+  📊 ITMG.JK (Stockbit fundamentals)... ✅
+  📊 JARR.JK (Stockbit fundamentals)... ✅
+  📊 JAST.JK (Stockbit fundamentals)... ✅
+  📊 JATI.JK (Stockbit fundamentals)... ✅
+  📊 JAWA.JK (Stockbit fundamentals)... ✅
+  📊 JAYA.JK (Stockbit fundamentals)... ✅
+📊 Batch 45 complete: 450 success, 0 failed
+----------------------------------------
+📦 Batch 46/96 (10 tickers)
+  📊 JECC.JK (Stockbit fundamentals)... ✅
+  📊 JGLE.JK (Stockbit fundamentals)... ✅
+  📊 JIHD.JK (Stockbit fundamentals)... ✅
+  📊 JKON.JK (Stockbit fundamentals)... ✅
+  📊 JMAS.JK (Stockbit fundamentals)... ✅
+  📊 JPFA.JK (Stockbit fundamentals)... ✅
+  📊 JRPT.JK (Stockbit fundamentals)... ✅
+  📊 JSKY.JK (Stockbit fundamentals)... ✅
+  📊 JSMR.JK (Stockbit fundamentals)... ✅
+  📊 JSPT.JK (Stockbit fundamentals)... ✅
+📊 Batch 46 complete: 460 success, 0 failed
+----------------------------------------
+📦 Batch 47/96 (10 tickers)
+  📊 JTPE.JK (Stockbit fundamentals)... ✅
+  📊 KAEF.JK (Stockbit fundamentals)... ✅
+  📊 KAQI.JK (Stockbit fundamentals)... ✅
+  📊 KARW.JK (Stockbit fundamentals)... ✅
+  📊 KAYU.JK (Stockbit fundamentals)... ✅
+  📊 KBAG.JK (Stockbit fundamentals)... ✅
+  📊 KBLI.JK (Stockbit fundamentals)... ✅
+  📊 KBLM.JK (Stockbit fundamentals)... ✅
+  📊 KBLV.JK (Stockbit fundamentals)... ✅
+  📊 KBRI.JK (Stockbit fundamentals)... ✅
+📊 Batch 47 complete: 470 success, 0 failed
+----------------------------------------
+📦 Batch 48/96 (10 tickers)
+  📊 KDSI.JK (Stockbit fundamentals)... ✅
+  📊 KDTN.JK (Stockbit fundamentals)... ✅
+  📊 KEEN.JK (Stockbit fundamentals)... ✅
+  📊 KEJU.JK (Stockbit fundamentals)... ✅
+  📊 KETR.JK (Stockbit fundamentals)... ✅
+  📊 KIAS.JK (Stockbit fundamentals)... ✅
+  📊 KICI.JK (Stockbit fundamentals)... ✅
+  📊 KIJA.JK (Stockbit fundamentals)... ✅
+  📊 KING.JK (Stockbit fundamentals)... ✅
+  📊 KINO.JK (Stockbit fundamentals)... ✅
+📊 Batch 48 complete: 480 success, 0 failed
+----------------------------------------
+📦 Batch 49/96 (10 tickers)
+  📊 KIOS.JK (Stockbit fundamentals)... ✅
+  📊 KJEN.JK (Stockbit fundamentals)... ✅
+  📊 KKES.JK (Stockbit fundamentals)... ✅
+  📊 KKGI.JK (Stockbit fundamentals)... ✅
+  📊 KLAS.JK (Stockbit fundamentals)... ✅
+  📊 KLBF.JK (Stockbit fundamentals)... ✅
+  📊 KLIN.JK (Stockbit fundamentals)... ✅
+  📊 KMDS.JK (Stockbit fundamentals)... ✅
+  📊 KMTR.JK (Stockbit fundamentals)... ✅
+  📊 KOBX.JK (Stockbit fundamentals)... ✅
+📊 Batch 49 complete: 490 success, 0 failed
+----------------------------------------
+📦 Batch 50/96 (10 tickers)
+  📊 KOCI.JK (Stockbit fundamentals)... ✅
+  📊 KOIN.JK (Stockbit fundamentals)... ✅
+  📊 KOKA.JK (Stockbit fundamentals)... ✅
+  📊 KONI.JK (Stockbit fundamentals)... ✅
+  📊 KOPI.JK (Stockbit fundamentals)... ✅
+  📊 KOTA.JK (Stockbit fundamentals)... ✅
+  📊 KPIG.JK (Stockbit fundamentals)... ✅
+  📊 KRAS.JK (Stockbit fundamentals)... ✅
+  📊 KREN.JK (Stockbit fundamentals)... ✅
+  📊 KRYA.JK (Stockbit fundamentals)... ✅
+📊 Batch 50 complete: 500 success, 0 failed
+----------------------------------------
+📦 Batch 51/96 (10 tickers)
+  📊 KSIX.JK (Stockbit fundamentals)... ✅
+  📊 KUAS.JK (Stockbit fundamentals)... ✅
+  📊 LABA.JK (Stockbit fundamentals)... ✅
+  📊 LABS.JK (Stockbit fundamentals)... ✅
+  📊 LAJU.JK (Stockbit fundamentals)... ✅
+  📊 LAND.JK (Stockbit fundamentals)... ✅
+  📊 LAPD.JK (Stockbit fundamentals)... ✅
+  📊 LCGP.JK (Stockbit fundamentals)... ✅
+  📊 LCKM.JK (Stockbit fundamentals)... ✅
+  📊 LEAD.JK (Stockbit fundamentals)... ✅
+📊 Batch 51 complete: 510 success, 0 failed
+----------------------------------------
+📦 Batch 52/96 (10 tickers)
+  📊 LFLO.JK (Stockbit fundamentals)... ✅
+  📊 LIFE.JK (Stockbit fundamentals)... ✅
+  📊 LINK.JK (Stockbit fundamentals)... ✅
+  📊 LION.JK (Stockbit fundamentals)... ✅
+  📊 LIVE.JK (Stockbit fundamentals)... ✅
+  📊 LMAS.JK (Stockbit fundamentals)... ✅
+  📊 LMAX.JK (Stockbit fundamentals)... ✅
+  📊 LMPI.JK (Stockbit fundamentals)... ✅
+  📊 LMSH.JK (Stockbit fundamentals)... ✅
+  📊 LOPI.JK (Stockbit fundamentals)... ✅
+📊 Batch 52 complete: 520 success, 0 failed
+----------------------------------------
+📦 Batch 53/96 (10 tickers)
+  📊 LPCK.JK (Stockbit fundamentals)... ✅
+  📊 LPGI.JK (Stockbit fundamentals)... ✅
+  📊 LPIN.JK (Stockbit fundamentals)... ✅
+  📊 LPKR.JK (Stockbit fundamentals)... ✅
+  📊 LPLI.JK (Stockbit fundamentals)... ✅
+  📊 LPPF.JK (Stockbit fundamentals)... ✅
+  📊 LPPS.JK (Stockbit fundamentals)... ✅
+  📊 LRNA.JK (Stockbit fundamentals)... ✅
+  📊 LSIP.JK (Stockbit fundamentals)... ✅
+  📊 LTLS.JK (Stockbit fundamentals)... ✅
+📊 Batch 53 complete: 530 success, 0 failed
+----------------------------------------
+📦 Batch 54/96 (10 tickers)
+  📊 LUCK.JK (Stockbit fundamentals)... ✅
+  📊 LUCY.JK (Stockbit fundamentals)... ✅
+  📊 MABA.JK (Stockbit fundamentals)... ✅
+  📊 MAGP.JK (Stockbit fundamentals)... ✅
+  📊 MAHA.JK (Stockbit fundamentals)... ✅
+  📊 MAIN.JK (Stockbit fundamentals)... ✅
+  📊 MANG.JK (Stockbit fundamentals)... ✅
+  📊 MAPA.JK (Stockbit fundamentals)... ✅
+  📊 MAPB.JK (Stockbit fundamentals)... ✅
+  📊 MAPI.JK (Stockbit fundamentals)... ✅
+📊 Batch 54 complete: 540 success, 0 failed
+----------------------------------------
+📦 Batch 55/96 (10 tickers)
+  📊 MARI.JK (Stockbit fundamentals)... ✅
+  📊 MARK.JK (Stockbit fundamentals)... ✅
+  📊 MASB.JK (Stockbit fundamentals)... ✅
+  📊 MAXI.JK (Stockbit fundamentals)... ✅
+  📊 MAYA.JK (Stockbit fundamentals)... ✅
+  📊 MBAP.JK (Stockbit fundamentals)... ✅
+  📊 MBMA.JK (Stockbit fundamentals)... ✅
+  📊 MBSS.JK (Stockbit fundamentals)... ✅
+  📊 MBTO.JK (Stockbit fundamentals)... ✅
+  📊 MCAS.JK (Stockbit fundamentals)... ✅
+📊 Batch 55 complete: 550 success, 0 failed
+----------------------------------------
+📦 Batch 56/96 (10 tickers)
+  📊 MCOL.JK (Stockbit fundamentals)... ✅
+  📊 MCOR.JK (Stockbit fundamentals)... ✅
+  📊 MDIA.JK (Stockbit fundamentals)... ✅
+  📊 MDIY.JK (Stockbit fundamentals)... ✅
+  📊 MDKA.JK (Stockbit fundamentals)... ✅
+  📊 MDKI.JK (Stockbit fundamentals)... ✅
+  📊 MDLA.JK (Stockbit fundamentals)... ✅
+  📊 MDLN.JK (Stockbit fundamentals)... ✅
+  📊 MDRN.JK (Stockbit fundamentals)... ✅
+  📊 MEDC.JK (Stockbit fundamentals)... ✅
+📊 Batch 56 complete: 560 success, 0 failed
+----------------------------------------
+📦 Batch 57/96 (10 tickers)
+  📊 MEDS.JK (Stockbit fundamentals)... ✅
+  📊 MEGA.JK (Stockbit fundamentals)... ✅
+  📊 MEJA.JK (Stockbit fundamentals)... ✅
+  📊 MENN.JK (Stockbit fundamentals)... ✅
+  📊 MERI.JK (Stockbit fundamentals)... ✅
+  📊 MERK.JK (Stockbit fundamentals)... ✅
+  📊 META.JK (Stockbit fundamentals)... ✅
+  📊 MFMI.JK (Stockbit fundamentals)... ✅
+  📊 MGLV.JK (Stockbit fundamentals)... ✅
+  📊 MGNA.JK (Stockbit fundamentals)... ✅
+📊 Batch 57 complete: 570 success, 0 failed
+----------------------------------------
+📦 Batch 58/96 (10 tickers)
+  📊 MGRO.JK (Stockbit fundamentals)... ✅
+  📊 MHKI.JK (Stockbit fundamentals)... ✅
+  📊 MICE.JK (Stockbit fundamentals)... ✅
+  📊 MIDI.JK (Stockbit fundamentals)... ✅
+  📊 MIKA.JK (Stockbit fundamentals)... ✅
+  📊 MINA.JK (Stockbit fundamentals)... ✅
+  📊 MINE.JK (Stockbit fundamentals)... ✅
+  📊 MIRA.JK (Stockbit fundamentals)... ✅
+  📊 MITI.JK (Stockbit fundamentals)... ✅
+  📊 MKAP.JK (Stockbit fundamentals)... ✅
+📊 Batch 58 complete: 580 success, 0 failed
+----------------------------------------
+📦 Batch 59/96 (10 tickers)
+  📊 MKNT.JK (Stockbit fundamentals)... ✅
+  📊 MKPI.JK (Stockbit fundamentals)... ✅
+  📊 MKTR.JK (Stockbit fundamentals)... ✅
+  📊 MLBI.JK (Stockbit fundamentals)... ✅
+  📊 MLIA.JK (Stockbit fundamentals)... ✅
+  📊 MLPL.JK (Stockbit fundamentals)... ✅
+  📊 MLPT.JK (Stockbit fundamentals)... ✅
+  📊 MMIX.JK (Stockbit fundamentals)... ✅
+  📊 MMLP.JK (Stockbit fundamentals)... ✅
+  📊 MNCN.JK (Stockbit fundamentals)... ✅
+📊 Batch 59 complete: 590 success, 0 failed
+----------------------------------------
+📦 Batch 60/96 (10 tickers)
+  📊 MOLI.JK (Stockbit fundamentals)... ✅
+  📊 MORA.JK (Stockbit fundamentals)... ✅
+  📊 MPIX.JK (Stockbit fundamentals)... ✅
+  📊 MPMX.JK (Stockbit fundamentals)... ✅
+  📊 MPOW.JK (Stockbit fundamentals)... ✅
+  📊 MPPA.JK (Stockbit fundamentals)... ✅
+  📊 MPRO.JK (Stockbit fundamentals)... ✅
+  📊 MPXL.JK (Stockbit fundamentals)... ✅
+  📊 MRAT.JK (Stockbit fundamentals)... ✅
+  📊 MREI.JK (Stockbit fundamentals)... ✅
+📊 Batch 60 complete: 600 success, 0 failed
+----------------------------------------
+📦 Batch 61/96 (10 tickers)
+  📊 MSIE.JK (Stockbit fundamentals)... ✅
+  📊 MSIN.JK (Stockbit fundamentals)... ✅
+  📊 MSJA.JK (Stockbit fundamentals)... ✅
+  📊 MSKY.JK (Stockbit fundamentals)... ✅
+  📊 MSTI.JK (Stockbit fundamentals)... ✅
+  📊 MTDL.JK (Stockbit fundamentals)... ✅
+  📊 MTEL.JK (Stockbit fundamentals)... ✅
+  📊 MTFN.JK (Stockbit fundamentals)... ✅
+  📊 MTLA.JK (Stockbit fundamentals)... ✅
+  📊 MTMH.JK (Stockbit fundamentals)... ✅
+📊 Batch 61 complete: 610 success, 0 failed
+----------------------------------------
+📦 Batch 62/96 (10 tickers)
+  📊 MTPS.JK (Stockbit fundamentals)... ✅
+  📊 MTRA.JK (Stockbit fundamentals)... ✅
+  📊 MTSM.JK (Stockbit fundamentals)... ✅
+  📊 MTWI.JK (Stockbit fundamentals)... ✅
+  📊 MUTU.JK (Stockbit fundamentals)... ✅
+  📊 MYOH.JK (Stockbit fundamentals)... ✅
+  📊 MYOR.JK (Stockbit fundamentals)... ✅
+  📊 MYTX.JK (Stockbit fundamentals)... ✅
+  📊 NAIK.JK (Stockbit fundamentals)... ✅
+  📊 NANO.JK (Stockbit fundamentals)... ✅
+📊 Batch 62 complete: 620 success, 0 failed
+----------------------------------------
+📦 Batch 63/96 (10 tickers)
+  📊 NASA.JK (Stockbit fundamentals)... ✅
+  📊 NASI.JK (Stockbit fundamentals)... ✅
+  📊 NATO.JK (Stockbit fundamentals)... ✅
+  📊 NAYZ.JK (Stockbit fundamentals)... ✅
+  📊 NCKL.JK (Stockbit fundamentals)... ✅
+  📊 NELY.JK (Stockbit fundamentals)... ✅
+  📊 NEST.JK (Stockbit fundamentals)... ✅
+  📊 NETV.JK (Stockbit fundamentals)... ✅
+  📊 NFCX.JK (Stockbit fundamentals)... ✅
+  📊 NICE.JK (Stockbit fundamentals)... ✅
+📊 Batch 63 complete: 630 success, 0 failed
+----------------------------------------
+📦 Batch 64/96 (10 tickers)
+  📊 NICK.JK (Stockbit fundamentals)... ✅
+  📊 NICL.JK (Stockbit fundamentals)... ✅
+  📊 NIKL.JK (Stockbit fundamentals)... ✅
+  📊 NINE.JK (Stockbit fundamentals)... ✅
+  📊 NIRO.JK (Stockbit fundamentals)... ✅
+  📊 NISP.JK (Stockbit fundamentals)... ✅
+  📊 NOBU.JK (Stockbit fundamentals)... ✅
+  📊 NPGF.JK (Stockbit fundamentals)... ✅
+  📊 NRCA.JK (Stockbit fundamentals)... ✅
+  📊 NSSS.JK (Stockbit fundamentals)... ✅
+📊 Batch 64 complete: 640 success, 0 failed
+----------------------------------------
+📦 Batch 65/96 (10 tickers)
+  📊 NTBK.JK (Stockbit fundamentals)... ✅
+  📊 NUSA.JK (Stockbit fundamentals)... ✅
+  📊 NZIA.JK (Stockbit fundamentals)... ✅
+  📊 OASA.JK (Stockbit fundamentals)... ✅
+  📊 OBAT.JK (Stockbit fundamentals)... ✅
+  📊 OBMD.JK (Stockbit fundamentals)... ✅
+  📊 OCAP.JK (Stockbit fundamentals)... ✅
+  📊 OILS.JK (Stockbit fundamentals)... ✅
+  📊 OKAS.JK (Stockbit fundamentals)... ✅
+  📊 OLIV.JK (Stockbit fundamentals)... ✅
+📊 Batch 65 complete: 650 success, 0 failed
+----------------------------------------
+📦 Batch 66/96 (10 tickers)
+  📊 OMED.JK (Stockbit fundamentals)... ✅
+  📊 OMRE.JK (Stockbit fundamentals)... ✅
+  📊 OPMS.JK (Stockbit fundamentals)... ✅
+  📊 PACK.JK (Stockbit fundamentals)... ✅
+  📊 PADA.JK (Stockbit fundamentals)... ✅
+  📊 PADI.JK (Stockbit fundamentals)... ✅
+  📊 PALM.JK (Stockbit fundamentals)... ✅
+  📊 PAMG.JK (Stockbit fundamentals)... ✅
+  📊 PANI.JK (Stockbit fundamentals)... ✅
+  📊 PANR.JK (Stockbit fundamentals)... ✅
+📊 Batch 66 complete: 660 success, 0 failed
+----------------------------------------
+📦 Batch 67/96 (10 tickers)
+  📊 PANS.JK (Stockbit fundamentals)... ✅
+  📊 PART.JK (Stockbit fundamentals)... ✅
+  📊 PBID.JK (Stockbit fundamentals)... ✅
+  📊 PBRX.JK (Stockbit fundamentals)... ✅
+  📊 PBSA.JK (Stockbit fundamentals)... ✅
+  📊 PCAR.JK (Stockbit fundamentals)... ✅
+  📊 PDES.JK (Stockbit fundamentals)... ✅
+  📊 PDPP.JK (Stockbit fundamentals)... ✅
+  📊 PEGE.JK (Stockbit fundamentals)... ✅
+  📊 PEHA.JK (Stockbit fundamentals)... ✅
+📊 Batch 67 complete: 670 success, 0 failed
+----------------------------------------
+📦 Batch 68/96 (10 tickers)
+  📊 PEVE.JK (Stockbit fundamentals)... ✅
+  📊 PGAS.JK (Stockbit fundamentals)... ✅
+  📊 PGEO.JK (Stockbit fundamentals)... ✅
+  📊 PGJO.JK (Stockbit fundamentals)... ✅
+  📊 PGLI.JK (Stockbit fundamentals)... ✅
+  📊 PGUN.JK (Stockbit fundamentals)... ✅
+  📊 PICO.JK (Stockbit fundamentals)... ✅
+  📊 PIPA.JK (Stockbit fundamentals)... ✅
+  📊 PJAA.JK (Stockbit fundamentals)... ✅
+  📊 PJHB.JK (Stockbit fundamentals)... ✅
+📊 Batch 68 complete: 680 success, 0 failed
+----------------------------------------
+📦 Batch 69/96 (10 tickers)
+  📊 PKPK.JK (Stockbit fundamentals)... ✅
+  📊 PLAN.JK (Stockbit fundamentals)... ✅
+  📊 PLAS.JK (Stockbit fundamentals)... ✅
+  📊 PLIN.JK (Stockbit fundamentals)... ✅
+  📊 PMJS.JK (Stockbit fundamentals)... ✅
+  📊 PMMP.JK (Stockbit fundamentals)... ✅
+  📊 PMUI.JK (Stockbit fundamentals)... ✅
+  📊 PNBN.JK (Stockbit fundamentals)... ✅
+  📊 PNBS.JK (Stockbit fundamentals)... ✅
+  📊 PNGO.JK (Stockbit fundamentals)... ✅
+📊 Batch 69 complete: 690 success, 0 failed
+----------------------------------------
+📦 Batch 70/96 (10 tickers)
+  📊 PNIN.JK (Stockbit fundamentals)... ✅
+  📊 PNLF.JK (Stockbit fundamentals)... ✅
+  📊 PNSE.JK (Stockbit fundamentals)... ✅
+  📊 POLA.JK (Stockbit fundamentals)... ✅
+  📊 POLI.JK (Stockbit fundamentals)... ✅
+  📊 POLL.JK (Stockbit fundamentals)... ✅
+  📊 POLU.JK (Stockbit fundamentals)... ✅
+  📊 POLY.JK (Stockbit fundamentals)... ✅
+  📊 POOL.JK (Stockbit fundamentals)... ✅
+  📊 PORT.JK (Stockbit fundamentals)... ✅
+📊 Batch 70 complete: 700 success, 0 failed
+----------------------------------------
+📦 Batch 71/96 (10 tickers)
+  📊 POSA.JK (Stockbit fundamentals)... ✅
+  📊 POWR.JK (Stockbit fundamentals)... ✅
+  📊 PPGL.JK (Stockbit fundamentals)... ✅
+  📊 PPRE.JK (Stockbit fundamentals)... ✅
+  📊 PPRI.JK (Stockbit fundamentals)... ✅
+  📊 PPRO.JK (Stockbit fundamentals)... ✅
+  📊 PRAY.JK (Stockbit fundamentals)... ✅
+  📊 PRDA.JK (Stockbit fundamentals)... ✅
+  📊 PRIM.JK (Stockbit fundamentals)... ✅
+  📊 PSAB.JK (Stockbit fundamentals)... ✅
+📊 Batch 71 complete: 710 success, 0 failed
+----------------------------------------
+📦 Batch 72/96 (10 tickers)
+  📊 PSAT.JK (Stockbit fundamentals)... ✅
+  📊 PSDN.JK (Stockbit fundamentals)... ✅
+  📊 PSGO.JK (Stockbit fundamentals)... ✅
+  📊 PSKT.JK (Stockbit fundamentals)... ✅
+  📊 PSSI.JK (Stockbit fundamentals)... ✅
+  📊 PTBA.JK (Stockbit fundamentals)... ✅
+  📊 PTDU.JK (Stockbit fundamentals)... ✅
+  📊 PTIS.JK (Stockbit fundamentals)... ✅
+  📊 PTMP.JK (Stockbit fundamentals)... ✅
+  📊 PTMR.JK (Stockbit fundamentals)... ✅
+📊 Batch 72 complete: 720 success, 0 failed
+----------------------------------------
+📦 Batch 73/96 (10 tickers)
+  📊 PTPP.JK (Stockbit fundamentals)... ✅
+  📊 PTPS.JK (Stockbit fundamentals)... ✅
+  📊 PTPW.JK (Stockbit fundamentals)... ✅
+  📊 PTRO.JK (Stockbit fundamentals)... ✅
+  📊 PTSN.JK (Stockbit fundamentals)... ✅
+  📊 PTSP.JK (Stockbit fundamentals)... ✅
+  📊 PUDP.JK (Stockbit fundamentals)... ✅
+  📊 PURA.JK (Stockbit fundamentals)... ✅
+  📊 PURE.JK (Stockbit fundamentals)... ✅
+  📊 PURI.JK (Stockbit fundamentals)... ✅
+📊 Batch 73 complete: 730 success, 0 failed
+----------------------------------------
+📦 Batch 74/96 (10 tickers)
+  📊 PWON.JK (Stockbit fundamentals)... ✅
+  📊 PYFA.JK (Stockbit fundamentals)... ✅
+  📊 PZZA.JK (Stockbit fundamentals)... ✅
+  📊 RAAM.JK (Stockbit fundamentals)... ✅
+  📊 RAFI.JK (Stockbit fundamentals)... ✅
+  📊 RAJA.JK (Stockbit fundamentals)... ✅
+  📊 RALS.JK (Stockbit fundamentals)... ✅
+  📊 RANC.JK (Stockbit fundamentals)... ✅
+  📊 RATU.JK (Stockbit fundamentals)... ✅
+  📊 RBMS.JK (Stockbit fundamentals)... ✅
+📊 Batch 74 complete: 740 success, 0 failed
+----------------------------------------
+📦 Batch 75/96 (10 tickers)
+  📊 RCCC.JK (Stockbit fundamentals)... ✅
+  📊 RDTX.JK (Stockbit fundamentals)... ✅
+  📊 REAL.JK (Stockbit fundamentals)... ✅
+  📊 RELF.JK (Stockbit fundamentals)... ✅
+  📊 RELI.JK (Stockbit fundamentals)... ✅
+  📊 RGAS.JK (Stockbit fundamentals)... ✅
+  📊 RICY.JK (Stockbit fundamentals)... ✅
+  📊 RIGS.JK (Stockbit fundamentals)... ✅
+  📊 RIMO.JK (Stockbit fundamentals)... ✅
+  📊 RISE.JK (Stockbit fundamentals)... ✅
+📊 Batch 75 complete: 750 success, 0 failed
+----------------------------------------
+📦 Batch 76/96 (10 tickers)
+  📊 RLCO.JK (Stockbit fundamentals)... ✅
+  📊 RMKE.JK (Stockbit fundamentals)... ✅
+  📊 RMKO.JK (Stockbit fundamentals)... ✅
+  📊 ROCK.JK (Stockbit fundamentals)... ✅
+  📊 RODA.JK (Stockbit fundamentals)... ✅
+  📊 RONY.JK (Stockbit fundamentals)... ✅
+  📊 ROTI.JK (Stockbit fundamentals)... ✅
+  📊 RSCH.JK (Stockbit fundamentals)... ✅
+  📊 RSGK.JK (Stockbit fundamentals)... ✅
+  📊 RUIS.JK (Stockbit fundamentals)... ✅
+📊 Batch 76 complete: 760 success, 0 failed
+----------------------------------------
+📦 Batch 77/96 (10 tickers)
+  📊 RUNS.JK (Stockbit fundamentals)... ✅
+  📊 SAFE.JK (Stockbit fundamentals)... ✅
+  📊 SAGE.JK (Stockbit fundamentals)... ✅
+  📊 SAME.JK (Stockbit fundamentals)... ✅
+  📊 SAMF.JK (Stockbit fundamentals)... ✅
+  📊 SAPX.JK (Stockbit fundamentals)... ✅
+  📊 SATU.JK (Stockbit fundamentals)... ✅
+  📊 SBAT.JK (Stockbit fundamentals)... ✅
+  📊 SBMA.JK (Stockbit fundamentals)... ✅
+  📊 SCCO.JK (Stockbit fundamentals)... ✅
+📊 Batch 77 complete: 770 success, 0 failed
+----------------------------------------
+📦 Batch 78/96 (10 tickers)
+  📊 SCMA.JK (Stockbit fundamentals)... ✅
+  📊 SCNP.JK (Stockbit fundamentals)... ✅
+  📊 SCPI.JK (Stockbit fundamentals)... ✅
+  📊 SDMU.JK (Stockbit fundamentals)... ✅
+  📊 SDPC.JK (Stockbit fundamentals)... ✅
+  📊 SDRA.JK (Stockbit fundamentals)... ✅
+  📊 SEMA.JK (Stockbit fundamentals)... ✅
+  📊 SFAN.JK (Stockbit fundamentals)... ✅
+  📊 SGER.JK (Stockbit fundamentals)... ✅
+  📊 SGRO.JK (Stockbit fundamentals)... ✅
+📊 Batch 78 complete: 780 success, 0 failed
+----------------------------------------
+📦 Batch 79/96 (10 tickers)
+  📊 SHID.JK (Stockbit fundamentals)... ✅
+  📊 SHIP.JK (Stockbit fundamentals)... ✅
+  📊 SICO.JK (Stockbit fundamentals)... ✅
+  📊 SIDO.JK (Stockbit fundamentals)... ✅
+  📊 SILO.JK (Stockbit fundamentals)... ✅
+  📊 SIMA.JK (Stockbit fundamentals)... ✅
+  📊 SIMP.JK (Stockbit fundamentals)... ✅
+  📊 SINI.JK (Stockbit fundamentals)... ✅
+  📊 SIPD.JK (Stockbit fundamentals)... ✅
+  📊 SKBM.JK (Stockbit fundamentals)... ✅
+📊 Batch 79 complete: 790 success, 0 failed
+----------------------------------------
+📦 Batch 80/96 (10 tickers)
+  📊 SKLT.JK (Stockbit fundamentals)... ✅
+  📊 SKRN.JK (Stockbit fundamentals)... ✅
+  📊 SKYB.JK (Stockbit fundamentals)... ✅
+  📊 SLIS.JK (Stockbit fundamentals)... ✅
+  📊 SMAR.JK (Stockbit fundamentals)... ✅
+  📊 SMBR.JK (Stockbit fundamentals)... ✅
+  📊 SMCB.JK (Stockbit fundamentals)... ✅
+  📊 SMDM.JK (Stockbit fundamentals)... ✅
+  📊 SMDR.JK (Stockbit fundamentals)... ✅
+  📊 SMGA.JK (Stockbit fundamentals)... ✅
+📊 Batch 80 complete: 800 success, 0 failed
+----------------------------------------
+📦 Batch 81/96 (10 tickers)
+  📊 SMGR.JK (Stockbit fundamentals)... ✅
+  📊 SMIL.JK (Stockbit fundamentals)... ✅
+  📊 SMKL.JK (Stockbit fundamentals)... ✅
+  📊 SMKM.JK (Stockbit fundamentals)... ✅
+  📊 SMLE.JK (Stockbit fundamentals)... ✅
+  📊 SMMA.JK (Stockbit fundamentals)... ✅
+  📊 SMMT.JK (Stockbit fundamentals)... ✅
+  📊 SMRA.JK (Stockbit fundamentals)... ✅
+  📊 SMRU.JK (Stockbit fundamentals)... ✅
+  📊 SMSM.JK (Stockbit fundamentals)... ✅
+📊 Batch 81 complete: 810 success, 0 failed
+----------------------------------------
+📦 Batch 82/96 (10 tickers)
+  📊 SNLK.JK (Stockbit fundamentals)... ✅
+  📊 SOCI.JK (Stockbit fundamentals)... ✅
+  📊 SOFA.JK (Stockbit fundamentals)... ✅
+  📊 SOHO.JK (Stockbit fundamentals)... ✅
+  📊 SOLA.JK (Stockbit fundamentals)... ✅
+  📊 SONA.JK (Stockbit fundamentals)... ✅
+  📊 SOSS.JK (Stockbit fundamentals)... ✅
+  📊 SOTS.JK (Stockbit fundamentals)... ✅
+  📊 SOUL.JK (Stockbit fundamentals)... ✅
+  📊 SPMA.JK (Stockbit fundamentals)... ✅
+📊 Batch 82 complete: 820 success, 0 failed
+----------------------------------------
+📦 Batch 83/96 (10 tickers)
+  📊 SPRE.JK (Stockbit fundamentals)... ✅
+  📊 SPTO.JK (Stockbit fundamentals)... ✅
+  📊 SQMI.JK (Stockbit fundamentals)... ✅
+  📊 SRAJ.JK (Stockbit fundamentals)... ✅
+  📊 SRIL.JK (Stockbit fundamentals)... ✅
+  📊 SRSN.JK (Stockbit fundamentals)... ✅
+  📊 SRTG.JK (Stockbit fundamentals)... ✅
+  📊 SSIA.JK (Stockbit fundamentals)... ✅
+  📊 SSMS.JK (Stockbit fundamentals)... ✅
+  📊 SSTM.JK (Stockbit fundamentals)... ✅
+📊 Batch 83 complete: 830 success, 0 failed
+----------------------------------------
+📦 Batch 84/96 (10 tickers)
+  📊 STAA.JK (Stockbit fundamentals)... ✅
+  📊 STAR.JK (Stockbit fundamentals)... ✅
+  📊 STRK.JK (Stockbit fundamentals)... ✅
+  📊 STTP.JK (Stockbit fundamentals)... ✅
+  📊 SUGI.JK (Stockbit fundamentals)... ✅
+  📊 SULI.JK (Stockbit fundamentals)... ✅
+  📊 SUNI.JK (Stockbit fundamentals)... ✅
+  📊 SUPA.JK (Stockbit fundamentals)... ✅
+  📊 SUPR.JK (Stockbit fundamentals)... ✅
+  📊 SURE.JK (Stockbit fundamentals)... ✅
+📊 Batch 84 complete: 840 success, 0 failed
+----------------------------------------
+📦 Batch 85/96 (10 tickers)
+  📊 SURI.JK (Stockbit fundamentals)... ✅
+  📊 SWAT.JK (Stockbit fundamentals)... ✅
+  📊 SWID.JK (Stockbit fundamentals)... ✅
+  📊 TALF.JK (Stockbit fundamentals)... ✅
+  📊 TAMA.JK (Stockbit fundamentals)... ✅
+  📊 TAMU.JK (Stockbit fundamentals)... ✅
+  📊 TAPG.JK (Stockbit fundamentals)... ✅
+  📊 TARA.JK (Stockbit fundamentals)... ✅
+  📊 TAXI.JK (Stockbit fundamentals)... ✅
+  📊 TAYS.JK (Stockbit fundamentals)... ✅
+📊 Batch 85 complete: 850 success, 0 failed
+----------------------------------------
+📦 Batch 86/96 (10 tickers)
+  📊 TBIG.JK (Stockbit fundamentals)... ✅
+  📊 TBLA.JK (Stockbit fundamentals)... ✅
+  📊 TBMS.JK (Stockbit fundamentals)... ✅
+  📊 TCID.JK (Stockbit fundamentals)... ✅
+  📊 TCPI.JK (Stockbit fundamentals)... ✅
+  📊 TDPM.JK (Stockbit fundamentals)... ✅
+  📊 TEBE.JK (Stockbit fundamentals)... ✅
+  📊 TECH.JK (Stockbit fundamentals)... ✅
+  📊 TELE.JK (Stockbit fundamentals)... ✅
+  📊 TFAS.JK (Stockbit fundamentals)... ✅
+📊 Batch 86 complete: 860 success, 0 failed
+----------------------------------------
+📦 Batch 87/96 (10 tickers)
+  📊 TFCO.JK (Stockbit fundamentals)... ✅
+  📊 TGKA.JK (Stockbit fundamentals)... ✅
+  📊 TGRA.JK (Stockbit fundamentals)... ✅
+  📊 TGUK.JK (Stockbit fundamentals)... ✅
+  📊 TIFA.JK (Stockbit fundamentals)... ✅
+  📊 TINS.JK (Stockbit fundamentals)... ✅
+  📊 TIRA.JK (Stockbit fundamentals)... ✅
+  📊 TIRT.JK (Stockbit fundamentals)... ✅
+  📊 TKIM.JK (Stockbit fundamentals)... ✅
+  📊 TLDN.JK (Stockbit fundamentals)... ✅
+📊 Batch 87 complete: 870 success, 0 failed
+----------------------------------------
+📦 Batch 88/96 (10 tickers)
+  📊 TLKM.JK (Stockbit fundamentals)... ✅
+  📊 TMAS.JK (Stockbit fundamentals)... ✅
+  📊 TMPO.JK (Stockbit fundamentals)... ✅
+  📊 TNCA.JK (Stockbit fundamentals)... ✅
+  📊 TOBA.JK (Stockbit fundamentals)... ✅
+  📊 TOOL.JK (Stockbit fundamentals)... ✅
+  📊 TOPS.JK (Stockbit fundamentals)... ✅
+  📊 TOSK.JK (Stockbit fundamentals)... ✅
+  📊 TOTL.JK (Stockbit fundamentals)... ✅
+  📊 TOTO.JK (Stockbit fundamentals)... ✅
+📊 Batch 88 complete: 880 success, 0 failed
+----------------------------------------
+📦 Batch 89/96 (10 tickers)
+  📊 TOWR.JK (Stockbit fundamentals)... ✅
+  📊 TOYS.JK (Stockbit fundamentals)... ✅
+  📊 TPIA.JK (Stockbit fundamentals)... ✅
+  📊 TPMA.JK (Stockbit fundamentals)... ✅
+  📊 TRAM.JK (Stockbit fundamentals)... ✅
+  📊 TRGU.JK (Stockbit fundamentals)... ✅
+  📊 TRIL.JK (Stockbit fundamentals)... ✅
+  📊 TRIM.JK (Stockbit fundamentals)... ✅
+  📊 TRIN.JK (Stockbit fundamentals)... ✅
+  📊 TRIO.JK (Stockbit fundamentals)... ✅
+📊 Batch 89 complete: 890 success, 0 failed
+----------------------------------------
+📦 Batch 90/96 (10 tickers)
+  📊 TRIS.JK (Stockbit fundamentals)... ✅
+  📊 TRJA.JK (Stockbit fundamentals)... ✅
+  📊 TRON.JK (Stockbit fundamentals)... ✅
+  📊 TRST.JK (Stockbit fundamentals)... ✅
+  📊 TRUE.JK (Stockbit fundamentals)... ✅
+  📊 TRUK.JK (Stockbit fundamentals)... ✅
+  📊 TRUS.JK (Stockbit fundamentals)... ✅
+  📊 TSPC.JK (Stockbit fundamentals)... ✅
+  📊 TUGU.JK (Stockbit fundamentals)... ✅
+  📊 TYRE.JK (Stockbit fundamentals)... ✅
+📊 Batch 90 complete: 900 success, 0 failed
+----------------------------------------
+📦 Batch 91/96 (10 tickers)
+  📊 UANG.JK (Stockbit fundamentals)... ✅
+  📊 UCID.JK (Stockbit fundamentals)... ✅
+  📊 UDNG.JK (Stockbit fundamentals)... ✅
+  📊 UFOE.JK (Stockbit fundamentals)... ✅
+  📊 ULTJ.JK (Stockbit fundamentals)... ✅
+  📊 UNIC.JK (Stockbit fundamentals)... ✅
+  📊 UNIQ.JK (Stockbit fundamentals)... ✅
+  📊 UNIT.JK (Stockbit fundamentals)... ✅
+  📊 UNSP.JK (Stockbit fundamentals)... ✅
+  📊 UNTD.JK (Stockbit fundamentals)... ✅
+📊 Batch 91 complete: 910 success, 0 failed
+----------------------------------------
+📦 Batch 92/96 (10 tickers)
+  📊 UNTR.JK (Stockbit fundamentals)... ✅
+  📊 UNVR.JK (Stockbit fundamentals)... ✅
+  📊 URBN.JK (Stockbit fundamentals)... ✅
+  📊 UVCR.JK (Stockbit fundamentals)... ✅
+  📊 VAST.JK (Stockbit fundamentals)... ✅
+  📊 VERN.JK (Stockbit fundamentals)... ✅
+  📊 VICI.JK (Stockbit fundamentals)... ✅
+  📊 VICO.JK (Stockbit fundamentals)... ✅
+  📊 VINS.JK (Stockbit fundamentals)... ✅
+  📊 VISI.JK (Stockbit fundamentals)... ✅
+📊 Batch 92 complete: 920 success, 0 failed
+----------------------------------------
+📦 Batch 93/96 (10 tickers)
+  📊 VIVA.JK (Stockbit fundamentals)... ✅
+  📊 VKTR.JK (Stockbit fundamentals)... ✅
+  📊 VOKS.JK (Stockbit fundamentals)... ✅
+  📊 VRNA.JK (Stockbit fundamentals)... ✅
+  📊 VTNY.JK (Stockbit fundamentals)... ✅
+  📊 WAPO.JK (Stockbit fundamentals)... ✅
+  📊 WBSA.JK (Stockbit fundamentals)... ✅
+  📊 WEGE.JK (Stockbit fundamentals)... ✅
+  📊 WEHA.JK (Stockbit fundamentals)... ✅
+  📊 WGSH.JK (Stockbit fundamentals)... ✅
+📊 Batch 93 complete: 930 success, 0 failed
+----------------------------------------
+📦 Batch 94/96 (10 tickers)
+  📊 WICO.JK (Stockbit fundamentals)... ✅
+  📊 WIDI.JK (Stockbit fundamentals)... ✅
+  📊 WIFI.JK (Stockbit fundamentals)... ✅
+  📊 WIIM.JK (Stockbit fundamentals)... ✅
+  📊 WIKA.JK (Stockbit fundamentals)... ✅
+  📊 WINE.JK (Stockbit fundamentals)... ✅
+  📊 WINR.JK (Stockbit fundamentals)... ✅
+  📊 WINS.JK (Stockbit fundamentals)... ✅
+  📊 WIRG.JK (Stockbit fundamentals)... ✅
+  📊 WMPP.JK (Stockbit fundamentals)... ✅
+📊 Batch 94 complete: 940 success, 0 failed
+----------------------------------------
+📦 Batch 95/96 (10 tickers)
+  📊 WMUU.JK (Stockbit fundamentals)... ✅
+  📊 WOMF.JK (Stockbit fundamentals)... ✅
+  📊 WOOD.JK (Stockbit fundamentals)... ✅
+  📊 WOWS.JK (Stockbit fundamentals)... ✅
+  📊 WSBP.JK (Stockbit fundamentals)... ✅
+  📊 WSKT.JK (Stockbit fundamentals)... ✅
+  📊 WTON.JK (Stockbit fundamentals)... ✅
+  📊 YELO.JK (Stockbit fundamentals)... ✅
+  📊 YOII.JK (Stockbit fundamentals)... ✅
+  📊 YPAS.JK (Stockbit fundamentals)... ✅
+📊 Batch 95 complete: 950 success, 0 failed
+----------------------------------------
+📦 Batch 96/96 (7 tickers)
+  📊 YULE.JK (Stockbit fundamentals)... ✅
+  📊 YUPI.JK (Stockbit fundamentals)... ✅
+  📊 ZATA.JK (Stockbit fundamentals)... ✅
+  📊 ZBRA.JK (Stockbit fundamentals)... ✅
+  📊 ZINC.JK (Stockbit fundamentals)... ✅
+  📊 ZONE.JK (Stockbit fundamentals)... ✅
+  📊 ZYRX.JK (Stockbit fundamentals)... ✅
+📊 Batch 96 complete: 957 success, 0 failed
+----------------------------------------
+============================================================
+🎉 Stockbit fundamental download complete!
+✅ Successful: 957
+❌ Failed: 0
+📊 Success rate: 100.0%
+✅ Fundamental data: 957 tickers
+
+🏢 COLLECTING CORPORATE ACTIONS (IDX)
+====================================================================================================
+📡 Fetching corporate actions from IDX...
+⚠ IDX corporate actions failed: HTTP Error 403: Forbidden
+✅ Corporate actions: 0 records
+
+====================================================================================================
+📊 FINAL PIPELINE SUMMARY
+====================================================================================================
+Total tickers processed: 957
+Price data collected: 957/957 (100.0%)
+Fundamental data: 957
+Corporate actions: 0
+⏰ End time: 2026-04-14 05:19:49
+====================================================================================================
+✅ Summary saved to: collection_summary.json

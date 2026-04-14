@@ -1,0 +1,287 @@
+$FREN.JK: possibly delisted; no timezone found
+
+1 Failed download:
+['FREN.JK']: possibly delisted; no timezone found
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: BANG.JK"}}}
+$BANG.JK: possibly delisted; no timezone found
+
+1 Failed download:
+['BANG.JK']: possibly delisted; no timezone found
+$EMKR.JK: possibly delisted; no timezone found
+
+1 Failed download:
+['EMKR.JK']: possibly delisted; no timezone found
+⚠ IDX source failed: HTTP Error 403: Forbidden
+Using fallback ticker list...
+✓ Using 220 fallback tickers
+🎯 Target: 220 IDX tickers to process
+🚀 Starting download process (batch size: 20)
+============================================================
+📦 Batch 1/11 (20 tickers)
+  📥 BBCA.JK... ✅ 5385 rows
+  📥 BBRI.JK... ✅ 5536 rows
+  📥 BMRI.JK... ✅ 5621 rows
+  📥 BBNI.JK... ✅ 5505 rows
+  📥 BRIS.JK... ✅ 1936 rows
+  📥 BNGA.JK... ✅ 5773 rows
+  📥 BDMN.JK... ✅ 5744 rows
+  📥 BNLI.JK... ✅ 5385 rows
+  📥 BJBR.JK... ✅ 3872 rows
+  📥 BJTM.JK... ✅ 3374 rows
+  📥 INPC.JK... ✅ 5960 rows
+  📥 NISP.JK... ✅ 5731 rows
+  📥 PNBN.JK... ✅ 5845 rows
+  📥 SDRA.JK... ✅ 4740 rows
+  📥 AGRO.JK... ✅ 5377 rows
+  📥 BFIN.JK... ✅ 6185 rows
+  📥 BBKP.JK... ✅ 4854 rows
+  📥 BBMD.JK... ✅ 3126 rows
+  📥 BBTN.JK... ✅ 4007 rows
+  📥 BBSI.JK... ✅ 1344 rows
+📊 Batch 1 complete: 20 success, 0 failed
+----------------------------------------
+⏳ Cooling down...
+📦 Batch 2/11 (20 tickers)
+  📥 BBYB.JK... ✅ 2767 rows
+  📥 BCIC.JK... ✅ 6414 rows
+  📥 BDKR.JK... ✅ 732 rows
+  📥 BEKS.JK... ✅ 6142 rows
+  📥 BGTG.JK... ✅ 2440 rows
+  📥 BHIT.JK... ✅ 6213 rows
+  📥 BINA.JK... ✅ 3009 rows
+  📥 BJTM.JK... ✅ 3374 rows
+  📥 BKSW.JK... ✅ 5788 rows
+  📥 BMAS.JK... ✅ 3130 rows
+  📥 ASII.JK... ✅ 6334 rows
+  📥 UNVR.JK... ✅ 5584 rows
+  📥 ICBP.JK... ✅ 6345 rows
+  📥 INDF.JK... ✅ 6346 rows
+  📥 MYOR.JK... ✅ 6309 rows
+  📥 HMSP.JK... ✅ 6090 rows
+  📥 GGRM.JK... ✅ 6167 rows
+  📥 ULTJ.JK... ✅ 5052 rows
+  📥 KLBF.JK... ✅ 5511 rows
+  📥 TSPC.JK... ✅ 5053 rows
+📊 Batch 2 complete: 40 success, 0 failed
+----------------------------------------
+⏳ Cooling down...
+📦 Batch 3/11 (20 tickers)
+  📥 AISA.JK... ✅ 5795 rows
+  📥 ADES.JK... ✅ 6193 rows
+  📥 ADMG.JK... ✅ 5891 rows
+  📥 AGII.JK... ✅ 2347 rows
+  📥 AKRA.JK... ✅ 5053 rows
+  📥 ALKA.JK... ✅ 6024 rows
+  📥 ALMI.JK... ✅ 5931 rows
+  📥 AMFG.JK... ✅ 5921 rows
+  📥 AMRT.JK... ✅ 4236 rows
+  📥 APEX.JK... ✅ 4485 rows
+  📥 APII.JK... ✅ 3053 rows
+  📥 APLN.JK... ✅ 3788 rows
+  📥 ARGO.JK... ✅ 5612 rows
+  📥 ARNA.JK... ✅ 5052 rows
+  📥 ASSA.JK... ✅ 3292 rows
+  📥 AUTO.JK... ✅ 6292 rows
+  📥 BAPA.JK... ✅ 4476 rows
+  📥 BATA.JK... ✅ 6063 rows
+  📥 BAYU.JK... ✅ 6062 rows
+  📥 BEER.JK... ✅ 771 rows
+📊 Batch 3 complete: 60 success, 0 failed
+----------------------------------------
+⏳ Cooling down...
+📦 Batch 4/11 (20 tickers)
+  📥 TLKM.JK... ✅ 5304 rows
+  📥 EXCL.JK... ✅ 5053 rows
+  📥 ISAT.JK... ✅ 5443 rows
+  📥 FREN.JK... ❌ No data
+  📥 TBIG.JK... ✅ 3800 rows
+  📥 MNCN.JK... ✅ 4611 rows
+  📥 BALI.JK... ✅ 2961 rows
+  📥 LINK.JK... ✅ 2850 rows
+  📥 MSIN.JK... ✅ 1913 rows
+  📥 SCMA.JK... ✅ 5880 rows
+  📥 BMTR.JK... ✅ 5052 rows
+  📥 BTEL.JK... ✅ 4964 rows
+  📥 CENT.JK... ✅ 6062 rows
+  📥 DIVA.JK... ✅ 1793 rows
+  📥 DMMX.JK... ✅ 1559 rows
+  📥 EMTK.JK... ✅ 3994 rows
+  📥 GIAA.JK... ✅ 3727 rows
+  📥 HAIS.JK... ✅ 1107 rows
+  📥 HDIT.JK... ✅ 1630 rows
+  📥 HDTX.JK... ✅ 5740 rows
+📊 Batch 4 complete: 79 success, 1 failed
+----------------------------------------
+⏳ Cooling down...
+📦 Batch 5/11 (20 tickers)
+  📥 ANTM.JK... ✅ 5053 rows
+  📥 ADRO.JK... ✅ 4353 rows
+  📥 PTBA.JK... ✅ 5765 rows
+  📥 ITMG.JK... ✅ 4489 rows
+  📥 BYAN.JK... ✅ 4336 rows
+  📥 MEDC.JK... ✅ 6430 rows
+  📥 PGAS.JK... ✅ 5510 rows
+  📥 ENRG.JK... ✅ 5386 rows
+  📥 ELSA.JK... ✅ 4459 rows
+  📥 HRUM.JK... ✅ 3814 rows
+  📥 ABMM.JK... ✅ 3526 rows
+  📥 AKPI.JK... ✅ 5931 rows
+  📥 APIC.JK... ✅ 5467 rows
+  📥 ARII.JK... ✅ 3545 rows
+  📥 BANG.JK... ❌ No data
+  📥 BIPI.JK... ✅ 3972 rows
+  📥 BOSS.JK... ✅ 1994 rows
+  📥 BRMS.JK... ✅ 3770 rows
+  📥 BSSR.JK... ✅ 3293 rows
+  📥 BUMI.JK... ✅ 6168 rows
+📊 Batch 5 complete: 98 success, 2 failed
+----------------------------------------
+⏳ Cooling down...
+📦 Batch 6/11 (20 tickers)
+  📥 CNKO.JK... ✅ 5528 rows
+  📥 CTRA.JK... ✅ 6323 rows
+  📥 DEWA.JK... ✅ 4545 rows
+  📥 DOID.JK... ✅ 6161 rows
+  📥 DSSA.JK... ✅ 4012 rows
+  📥 DWGL.JK... ✅ 2041 rows
+  📥 DYAN.JK... ✅ 3204 rows
+  📥 EKAD.JK... ✅ 5053 rows
+  📥 EMKR.JK... ❌ No data
+  📥 ENAK.JK... ✅ 996 rows
+  📥 BSDE.JK... ✅ 4381 rows
+  📥 PWON.JK... ✅ 5052 rows
+  📥 SMRA.JK... ✅ 5860 rows
+  📥 PTPP.JK... ✅ 3973 rows
+  📥 WSKT.JK... ✅ 3267 rows
+  📥 WIKA.JK... ✅ 4523 rows
+  📥 WTON.JK... ✅ 2944 rows
+  📥 TOTL.JK... ✅ 4842 rows
+  📥 CMNP.JK... ✅ 6119 rows
+  📥 SSIA.JK... ✅ 5960 rows
+📊 Batch 6 complete: 117 success, 3 failed
+----------------------------------------
+⏳ Cooling down...
+📦 Batch 7/11 (20 tickers)
+  📥 ASRI.JK... ✅ 4489 rows
+  📥 BAPA.JK... ✅ 4476 rows
+  📥 BEST.JK... ✅ 3431 rows
+  📥 BIKA.JK... ✅ 2632 rows
+  📥 BKDP.JK... ✅ 4616 rows
+  📥 BKSL.JK... ✅ 5053 rows
+  📥 BSDE.JK... ✅ 4381 rows
+  📥 CASA.JK... ✅ 2396 rows
+  📥 CTRA.JK... ✅ 6323 rows
+  📥 DART.JK... ✅ 5899 rows
+  📥 DFAM.JK... ✅ 1945 rows
+  📥 DIGI.JK... ✅ 1843 rows
+  📥 DMAS.JK... ✅ 2664 rows
+  📥 DUTI.JK... ✅ 6014 rows
+  📥 ELTY.JK... ✅ 5902 rows
+  📥 EMDE.JK... ✅ 3747 rows
+  📥 ESTI.JK... ✅ 6295 rows
+  📥 FORU.JK... ✅ 6007 rows
+  📥 GMTD.JK... ✅ 6296 rows
+  📥 GPRA.JK... ✅ 4534 rows
+📊 Batch 7 complete: 137 success, 3 failed
+----------------------------------------
+⏳ Cooling down...
+📦 Batch 8/11 (20 tickers)
+  📥 JSMR.JK... ✅ 4514 rows
+  📥 ACST.JK... ✅ 3144 rows
+  📥 ADHI.JK... ✅ 5443 rows
+  📥 AKRA.JK... ✅ 5053 rows
+  📥 ASSA.JK... ✅ 3292 rows
+  📥 BULL.JK... ✅ 3659 rows
+  📥 BUVA.JK... ✅ 3869 rows
+  📥 DGIK.JK... ✅ 4487 rows
+  📥 GJTL.JK... ✅ 5912 rows
+  📥 HITS.JK... ✅ 5052 rows
+  📥 IATA.JK... ✅ 4807 rows
+  📥 IKAN.JK... ✅ 1481 rows
+  📥 IMJS.JK... ✅ 3022 rows
+  📥 INDY.JK... ✅ 4379 rows
+  📥 IPCC.JK... ✅ 1893 rows
+  📥 ISAT.JK... ✅ 5443 rows
+  📥 ITMA.JK... ✅ 4499 rows
+  📥 JTPE.JK... ✅ 5945 rows
+  📥 KARW.JK... ✅ 5993 rows
+  📥 KIJA.JK... ✅ 6090 rows
+📊 Batch 8 complete: 157 success, 3 failed
+----------------------------------------
+⏳ Cooling down...
+📦 Batch 9/11 (20 tickers)
+  📥 INTP.JK... ✅ 6298 rows
+  📥 UNTR.JK... ✅ 6364 rows
+  📥 CPIN.JK... ✅ 5052 rows
+  📥 JPFA.JK... ✅ 6259 rows
+  📥 MAIN.JK... ✅ 4960 rows
+  📥 SMGR.JK... ✅ 5053 rows
+  📥 SRIL.JK... ✅ 3148 rows
+  📥 AMRT.JK... ✅ 4236 rows
+  📥 MPPA.JK... ✅ 6338 rows
+  📥 SILO.JK... ✅ 3083 rows
+  📥 AALI.JK... ✅ 6213 rows
+  📥 ABBA.JK... ✅ 5053 rows
+  📥 ABMM.JK... ✅ 3526 rows
+  📥 ACES.JK... ✅ 4518 rows
+  📥 ADHI.JK... ✅ 5443 rows
+  📥 ADMF.JK... ✅ 5434 rows
+  📥 AGII.JK... ✅ 2347 rows
+  📥 AGRO.JK... ✅ 5377 rows
+  📥 AKKU.JK... ✅ 5280 rows
+  📥 AKPI.JK... ✅ 5931 rows
+📊 Batch 9 complete: 177 success, 3 failed
+----------------------------------------
+⏳ Cooling down...
+📦 Batch 10/11 (20 tickers)
+  📥 AKRA.JK... ✅ 5053 rows
+  📥 AKSI.JK... ✅ 4485 rows
+  📥 ALDO.JK... ✅ 3624 rows
+  📥 ALKA.JK... ✅ 6024 rows
+  📥 ALMI.JK... ✅ 5931 rows
+  📥 ALTO.JK... ✅ 3375 rows
+  📥 AMAG.JK... ✅ 4994 rows
+  📥 AMFG.JK... ✅ 5921 rows
+  📥 AMIN.JK... ✅ 2533 rows
+  📥 AMOR.JK... ✅ 1278 rows
+  📥 KLBF.JK... ✅ 5511 rows
+  📥 KAEF.JK... ✅ 6147 rows
+  📥 MERK.JK... ✅ 5932 rows
+  📥 PYFA.JK... ✅ 6074 rows
+  📥 SCPI.JK... ✅ 5902 rows
+  📥 SIDO.JK... ✅ 3017 rows
+  📥 SOHO.JK... ✅ 1344 rows
+  📥 SRAJ.JK... ✅ 3686 rows
+  📥 TSPC.JK... ✅ 5053 rows
+  📥 UNSP.JK... ✅ 5278 rows
+📊 Batch 10 complete: 197 success, 3 failed
+----------------------------------------
+⏳ Cooling down...
+📦 Batch 11/11 (20 tickers)
+  📥 GOTO.JK... ✅ 954 rows
+  📥 BUKA.JK... ✅ 1123 rows
+  📥 EMTK.JK... ✅ 3994 rows
+  📥 MAPI.JK... ✅ 5273 rows
+  📥 MTEL.JK... ✅ 1050 rows
+  📥 POLY.JK... ✅ 5902 rows
+  📥 SAME.JK... ✅ 3246 rows
+  📥 SCCO.JK... ✅ 5961 rows
+  📥 SGER.JK... ✅ 1362 rows
+  📥 SMAR.JK... ✅ 6341 rows
+  📥 SONA.JK... ✅ 6451 rows
+  📥 SQMI.JK... ✅ 5356 rows
+  📥 SRTG.JK... ✅ 3141 rows
+  📥 SSMS.JK... ✅ 3020 rows
+  📥 TAMA.JK... ✅ 1483 rows
+  📥 TAMU.JK... ✅ 2195 rows
+  📥 TAXI.JK... ✅ 3298 rows
+  📥 TELE.JK... ✅ 3498 rows
+  📥 TFCO.JK... ✅ 5052 rows
+  📥 TGKA.JK... ✅ 5074 rows
+📊 Batch 11 complete: 217 success, 3 failed
+----------------------------------------
+============================================================
+🎉 PIPELINE COMPLETE!
+✅ Successful downloads: 217
+❌ Failed downloads: 3
+📊 Success rate: 98.6%

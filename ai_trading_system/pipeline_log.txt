@@ -1,0 +1,24 @@
+⚠ IDX source failed: HTTP Error 403: Forbidden
+Using fallback ticker list...
+✓ Using 10 fallback tickers
+🎯 Target: 10 IDX tickers to process
+🚀 Starting download process (batch size: 20)
+============================================================
+📦 Batch 1/1 (10 tickers)
+  📥 BBCA.JK... ✅ 5385 rows
+  📥 BBRI.JK... ✅ 5536 rows
+  📥 BMRI.JK... ✅ 5621 rows
+  📥 ASII.JK... ✅ 6334 rows
+  📥 TLKM.JK... ✅ 5304 rows
+  📥 UNVR.JK... ✅ 5584 rows
+  📥 ICBP.JK... ✅ 6345 rows
+  📥 ANTM.JK... ✅ 5053 rows
+  📥 GOTO.JK... ✅ 954 rows
+  📥 ADRO.JK... ✅ 4353 rows
+📊 Batch 1 complete: 10 success, 0 failed
+----------------------------------------
+============================================================
+🎉 PIPELINE COMPLETE!
+✅ Successful downloads: 10
+❌ Failed downloads: 0
+📊 Success rate: 100.0%
