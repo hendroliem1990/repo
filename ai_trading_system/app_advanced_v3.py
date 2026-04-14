@@ -8,13 +8,19 @@ import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-from database import get_engine
 import sqlalchemy
 import ta
-from advanced_analysis import AdvancedAnalyzer
-from recommendation import StockRecommender
 from datetime import datetime, timedelta
 import json
+
+# Import from proper module paths
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parent))
+
+from database import get_engine
+from advanced_analysis import AdvancedAnalyzer
+from recommendation import StockRecommender
 
 # ============================================
 # PAGE CONFIG
